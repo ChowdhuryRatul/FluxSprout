@@ -1,0 +1,11 @@
+# input data (download as described in README.md)
+*.h5
+Zebrafish-GEM.xml
+# local intermediates
+cache/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+*.log
+.Rhistory
+.Rproj.user/

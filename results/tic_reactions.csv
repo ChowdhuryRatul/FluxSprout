@@ -1,0 +1,2218 @@
+,subsystem,genes
+MAR04281,Glycolysis / Gluconeogenesis,ldha or ldhba or ldhbb
+MAR04388,Glycolysis / Gluconeogenesis,ldha or ldhba or ldhbb
+MAR04358,Glycolysis / Gluconeogenesis,pklr or pkma
+MAR04774,Galactose metabolism,pfklb or pfkma or pfkmb or pfkpa or pfkpb
+MAR04775,Galactose metabolism,pfklb or pfkma or pfkmb or pfkpa or pfkpb
+MAR04316,Fructose and mannose metabolism,akr1b1.2
+MAR04590,Pentose and glucuronate interconversions,dcxr
+MAR04591,Pentose and glucuronate interconversions,mecr or pecr
+MAR08344,Pentose and glucuronate interconversions,akr1a1b
+MAR06537,Pentose and glucuronate interconversions,akr1a1b
+MAR03855,Pyruvate metabolism,akr1b1.2
+MAR04193,Pyruvate metabolism,pklr or pkma
+MAR08507,Pyruvate metabolism,adh5 or adh5l or adh8a or adh8b or adhfe1 or zgc:77938
+MAR08508,Pyruvate metabolism,adh5 or adh5l or adh8a or adh8b or adhfe1 or zgc:77938
+MAR08509,Pyruvate metabolism,akr1a1b or akr1b1.2 or akr7a3
+MAR04280,Pyruvate metabolism,ldhba or ldhbb
+MAR04304,Pentose phosphate pathway,g6pd
+MAR04351,Pentose phosphate pathway,rpia
+MAR04352,Pentose phosphate pathway,rpia
+MAR08653,Pentose phosphate pathway,h6pd or pgls
+MAR04002,Purine metabolism,ak1 or ak2 or ak3 or ak4 or ak5 or ak7b or ak8 or ak9 or taf9 or zgc:86811
+MAR04004,Purine metabolism,ak1 or ak2 or ak3 or ak4 or ak5 or ak7b or ak8 or ak9 or taf9 or zgc:86811
+MAR04020,Purine metabolism,guk1a or guk1b
+MAR04135,Purine metabolism,guk1a or guk1b
+MAR04171,Purine metabolism,pklr or pkma
+MAR04421,Purine metabolism,pklr or pkma
+MAR04480,Purine metabolism,acad8 or acad9 or acadm or acadvl or acox3 or ak1 or ak2 or ak3 or ak4 or ak5 or ak7b or ak8 or ak9 or zgc:86811
+MAR04573,Purine metabolism,pklr or pkma
+MAR05353,Purine metabolism,guk1a or guk1b
+MAR06602,Purine metabolism,mpx or prdx6
+MAR06603,Purine metabolism,mpx or prdx6
+MAR06605,Purine metabolism,
+MAR06607,Purine metabolism,
+MAR04016,Purine metabolism,nme2b.1 or nme3 or nme4 or nme6 or nme7
+MAR04018,Purine metabolism,nme2b.1 or nme3 or nme4 or nme6 or nme7
+MAR04044,Purine metabolism,nme2b.1 or nme3 or nme4 or nme6 or nme7
+MAR04291,Purine metabolism,nme2b.1 or nme3 or nme4 or nme6 or nme7
+MAR04420,Purine metabolism,nme2b.1 or nme3 or nme4 or nme6 or nme7
+MAR04570,Purine metabolism,nme2b.1 or nme3 or nme4 or nme6 or nme7
+MAR04572,Purine metabolism,nme2b.1 or nme3 or nme4 or nme6 or nme7
+MAR04006,Pyrimidine metabolism,nme2b.1 or nme3 or nme4 or nme6 or nme7
+MAR04028,Pyrimidine metabolism,nme2b.1 or nme3 or nme4 or nme6 or nme7
+MAR04030,Pyrimidine metabolism,nme2b.1 or nme3 or nme4 or nme6 or nme7
+MAR04670,Pyrimidine metabolism,nme2b.1 or nme3 or nme4 or nme6 or nme7
+MAR04673,Pyrimidine metabolism,nme2b.1 or nme3 or nme4 or nme6 or nme7
+MAR04675,Pyrimidine metabolism,nme2b.1 or nme3 or nme4 or nme6 or nme7
+MAR06614,Pyrimidine metabolism,nme2b.1 or nme3 or nme4 or nme6 or nme7
+MAR06615,Pyrimidine metabolism,nme2b.1 or nme3 or nme4 or nme6 or nme7
+MAR06616,Pyrimidine metabolism,nme2b.1 or nme3 or nme4 or nme6 or nme7
+MAR04635,Pyrimidine metabolism,nme2b.1 or nme3 or nme4 or nme6 or nme7
+MAR03793,Pyrimidine metabolism,agxt2
+MAR04008,Pyrimidine metabolism,cmpk
+MAR04210,Pyrimidine metabolism,pklr or pkma
+MAR04345,Pyrimidine metabolism,dpydb
+MAR04512,Pyrimidine metabolism,cmpk
+MAR04513,Pyrimidine metabolism,dck
+MAR04637,Pyrimidine metabolism,dtymk
+MAR06612,Pyrimidine metabolism,dtymk
+MAR06627,Pyrimidine metabolism,pklr or pkma
+MAR03967,Nucleotide metabolism,cmpk
+MAR03968,Nucleotide metabolism,dtymk
+MAR04024,Nucleotide metabolism,cmpk
+MAR04026,Nucleotide metabolism,cmpk2
+MAR04344,Nucleotide metabolism,
+MAR04640,Nucleotide metabolism,dtymk
+MAR07800,Nucleotide metabolism,ak5
+MAR07801,Nucleotide metabolism,ak3
+MAR07802,Nucleotide metabolism,ak5
+MAR07863,Nucleotide metabolism,cmpk
+MAR07864,Nucleotide metabolism,cmpk
+MAR07865,Nucleotide metabolism,cmpk
+MAR07866,Nucleotide metabolism,cmpk
+MAR07867,Nucleotide metabolism,cmpk
+MAR07868,Nucleotide metabolism,cmpk
+MAR07869,Nucleotide metabolism,cmpk
+MAR07870,Nucleotide metabolism,cmpk
+MAR07871,Nucleotide metabolism,cmpk
+MAR07872,Nucleotide metabolism,cmpk
+MAR07873,Nucleotide metabolism,cmpk
+MAR07874,Nucleotide metabolism,cmpk
+MAR07875,Nucleotide metabolism,cmpk2
+MAR07876,Nucleotide metabolism,cmpk
+MAR07878,Nucleotide metabolism,nme2b.1 or nme3 or nme4 or nme6 or nme7
+MAR07881,Nucleotide metabolism,nme2b.1
+MAR07882,Nucleotide metabolism,nme2b.1
+MAR07883,Nucleotide metabolism,ak9 or nme2b.1 or nme3 or nme4 or nme6 or nme7
+MAR07884,Nucleotide metabolism,nme2b.1
+MAR07885,Nucleotide metabolism,nme2b.1
+MAR07886,Nucleotide metabolism,ak9 or nme2b.1 or nme3 or nme4 or nme6 or nme7
+MAR07887,Nucleotide metabolism,nme2b.1
+MAR07888,Nucleotide metabolism,nme2b.1
+MAR07890,Nucleotide metabolism,ak9 or nme2b.1 or nme3 or nme4 or nme6 or nme7
+MAR07891,Nucleotide metabolism,nme2b.1
+MAR07892,Nucleotide metabolism,nme2b.1
+MAR07893,Nucleotide metabolism,nme2b.1
+MAR07895,Nucleotide metabolism,ak9 or nme2b.1 or nme3 or nme4 or nme6 or nme7
+MAR08448,Nucleotide metabolism,cmpk
+MAR08449,Nucleotide metabolism,cmpk
+MAR08450,Nucleotide metabolism,cmpk
+MAR08451,Nucleotide metabolism,cmpk
+MAR08452,Nucleotide metabolism,cmpk
+MAR08453,Nucleotide metabolism,cmpk
+MAR08454,Nucleotide metabolism,cmpk
+MAR08455,Nucleotide metabolism,cmpk
+MAR08456,Nucleotide metabolism,cmpk
+MAR08457,Nucleotide metabolism,cmpk
+MAR08458,Nucleotide metabolism,cmpk
+MAR08459,Nucleotide metabolism,cmpk
+MAR08460,Nucleotide metabolism,cmpk
+MAR08461,Nucleotide metabolism,ak5
+MAR08462,Nucleotide metabolism,cmpk
+MAR08463,Nucleotide metabolism,cmpk
+MAR08464,Nucleotide metabolism,cmpk
+MAR08465,Nucleotide metabolism,cmpk
+MAR08466,Nucleotide metabolism,cmpk
+MAR08467,Nucleotide metabolism,cmpk
+MAR08468,Nucleotide metabolism,cmpk
+MAR08469,Nucleotide metabolism,cmpk
+MAR08470,Nucleotide metabolism,cmpk
+MAR08471,Nucleotide metabolism,cmpk
+MAR08472,Nucleotide metabolism,cmpk
+MAR08477,Nucleotide metabolism,dck
+MAR08478,Nucleotide metabolism,dck
+MAR08479,Nucleotide metabolism,dck
+MAR08481,Nucleotide metabolism,
+MAR03802,"Alanine, aspartate and glutamate metabolism",glud1a or glud1b
+MAR03804,"Alanine, aspartate and glutamate metabolism",glud1a or glud1b
+MAR03822,"Alanine, aspartate and glutamate metabolism",aldh4a1
+MAR03899,"Alanine, aspartate and glutamate metabolism",gpt or si:ch211-217a12.1
+MAR04109,"Alanine, aspartate and glutamate metabolism",gpt2
+MAR04118,"Alanine, aspartate and glutamate metabolism",gsr
+MAR03806,Arginine and proline metabolism,aldh4a1
+MAR03820,Arginine and proline metabolism,aldh4a1
+MAR03956,Arginine and proline metabolism,ca5a
+MAR04784,Arginine and proline metabolism,aldh4a1
+MAR04785,Arginine and proline metabolism,aldh4a1
+MAR08096,Arginine and proline metabolism,aldh4a1
+MAR08097,Arginine and proline metabolism,aldh4a1
+MAR08427,Arginine and proline metabolism,ckba or ckma or ckmb or ckmt1 or ckmt2a or ckmt2b
+MAR03845,"Glycine, serine and threonine metabolism",shmt1
+MAR04584,"Glycine, serine and threonine metabolism",ckba or ckma or ckmb or ckmt1 or ckmt2a or ckmt2b
+MAR04792,"Glycine, serine and threonine metabolism",shmt2
+MAR07702,"Glycine, serine and threonine metabolism",grhpra
+MAR04596,Lysine metabolism,aadat
+MAR04597,Lysine metabolism,aadat
+MAR03935,Tyrosine metabolism,hmgcl
+MAR04683,Tyrosine metabolism,aldh1a3 or aldh3a2b or aldh3b1
+MAR04685,Tyrosine metabolism,aldh1a3 or aldh3a2b or aldh3b1
+MAR04686,Tyrosine metabolism,aldh1a3 or aldh3a2b or aldh3b1
+MAR04687,Tyrosine metabolism,aldh1a3 or aldh3a2b or aldh3b1
+MAR08530,Tyrosine metabolism,adh5 or adh5l or adh8a or adh8b or adhfe1 or zgc:77938
+MAR04244,"Phenylalanine, tyrosine and tryptophan biosynthesis",aadat or kyat1 or kyat3.2
+MAR04245,"Phenylalanine, tyrosine and tryptophan biosynthesis",
+MAR04246,"Phenylalanine, tyrosine and tryptophan biosynthesis",aadat or kyat1 or kyat3.2
+MAR06817,"Phenylalanine, tyrosine and tryptophan biosynthesis",cryz
+MAR03995,Cysteine and methionine metabolism,atg9b or txnrd2.2 or txnrd3
+MAR03996,Cysteine and methionine metabolism,
+MAR08066,Cysteine and methionine metabolism,got1 or got2a or got2b
+MAR08067,Cysteine and methionine metabolism,got2a or got2b
+MAR08068,Cysteine and methionine metabolism,mdh1aa or mdh1b
+MAR08069,Cysteine and methionine metabolism,mdh2
+MAR08682,Cysteine and methionine metabolism,
+MAR03868,Glutathione metabolism,gsr
+MAR03933,Glutathione metabolism,adh5
+MAR03792,"Valine, leucine, and isoleucine metabolism",abat or agxt2
+MAR05407,Miscellaneous,ca12 or ca14 or ca4b or ca6 or ca9 or cahz
+MAR08662,C5-branched dibasic acid metabolism,(suclg1 and suclg2) or (sucla2 and suclg1)
+MAR08663,C5-branched dibasic acid metabolism,(suclg1 and suclg2) or (sucla2 and suclg1)
+MAR08667,C5-branched dibasic acid metabolism,(suclg1 and suclg2) or (sucla2 and suclg1)
+MAR08668,C5-branched dibasic acid metabolism,(suclg1 and suclg2) or (sucla2 and suclg1)
+MAR00710,Tricarboxylic acid cycle and glyoxylate/dicarboxylate metabolism,idh1
+MAR03957,Tricarboxylic acid cycle and glyoxylate/dicarboxylate metabolism,idh3a and idh3b and idh3g
+MAR03958,Tricarboxylic acid cycle and glyoxylate/dicarboxylate metabolism,idh2
+MAR04139,Tricarboxylic acid cycle and glyoxylate/dicarboxylate metabolism,mdh1aa or mdh1b
+MAR04141,Tricarboxylic acid cycle and glyoxylate/dicarboxylate metabolism,mdh2
+MAR04147,Tricarboxylic acid cycle and glyoxylate/dicarboxylate metabolism,(suclg1 and suclg2) or (sucla2 and suclg1)
+MAR04152,Tricarboxylic acid cycle and glyoxylate/dicarboxylate metabolism,(suclg1 and suclg2) or (sucla2 and suclg1)
+MAR04408,Tricarboxylic acid cycle and glyoxylate/dicarboxylate metabolism,fh
+MAR04410,Tricarboxylic acid cycle and glyoxylate/dicarboxylate metabolism,fh
+MAR04454,Tricarboxylic acid cycle and glyoxylate/dicarboxylate metabolism,aco1
+MAR04458,Tricarboxylic acid cycle and glyoxylate/dicarboxylate metabolism,aco2
+MAR04589,Tricarboxylic acid cycle and glyoxylate/dicarboxylate metabolism,aco2
+MAR08779,Tricarboxylic acid cycle and glyoxylate/dicarboxylate metabolism,grhpra
+MAR04767,ROS detoxification,
+MAR06608,ROS detoxification,
+MAR02449,Linoleate metabolism,
+MAR06397,Lipoic acid metabolism,dldh
+MAR01085,Leukotriene metabolism,dpep1 or dpep2
+MAR01231,Leukotriene metabolism,cbr1 or dhrs4
+MAR01280,Leukotriene metabolism,cbr1 or dhrs4
+MAR01285,Leukotriene metabolism,
+MAR04796,Leukotriene metabolism,ggt1a or ggt1b or ggt5a or ggt5b or si:ch73-337l15.2
+MAR08547,Eicosanoid metabolism,
+MAR08549,Eicosanoid metabolism,
+MAR08552,Eicosanoid metabolism,
+MAR08559,Eicosanoid metabolism,ptgdsb.1 or ptgdsb.2
+MAR08560,Eicosanoid metabolism,ptges or ptges3a or ptgesl
+MAR00159,Carnitine shuttle (cytosolic),cpt1a2b or cpt1aa or cpt1ab or cpt1b
+MAR02591,Carnitine shuttle (cytosolic),cpt1a2b or cpt1aa or cpt1ab or cpt1b
+MAR02594,Carnitine shuttle (cytosolic),cpt1a2b or cpt1aa or cpt1ab or cpt1b
+MAR02626,Carnitine shuttle (cytosolic),cpt1a2b or cpt1aa or cpt1ab or cpt1b
+MAR02636,Carnitine shuttle (cytosolic),cpt1a2b or cpt1aa or cpt1ab or cpt1b
+MAR02663,Carnitine shuttle (cytosolic),cpt1a2b or cpt1aa or cpt1ab or cpt1b
+MAR02711,Carnitine shuttle (cytosolic),cpt1a2b or cpt1aa or cpt1ab or cpt1b
+MAR02730,Carnitine shuttle (cytosolic),cpt1a2b or cpt1aa or cpt1ab or cpt1b
+MAR02742,Carnitine shuttle (cytosolic),cpt1a2b or cpt1aa or cpt1ab or cpt1b
+MAR02746,Carnitine shuttle (cytosolic),cpt1a2b or cpt1aa or cpt1ab or cpt1b
+MAR02752,Carnitine shuttle (cytosolic),cpt1a2b or cpt1aa or cpt1ab or cpt1b
+MAR02755,Carnitine shuttle (cytosolic),cpt1a2b or cpt1aa or cpt1ab or cpt1b
+MAR02759,Carnitine shuttle (cytosolic),cpt1a2b or cpt1aa or cpt1ab or cpt1b
+MAR03032,Carnitine shuttle (cytosolic),cpt1a2b or cpt1aa or cpt1ab or cpt1b
+MAR00160,Carnitine shuttle (mitochondrial),slc25a20
+MAR00161,Carnitine shuttle (mitochondrial),cpt2 or crata
+MAR00162,Carnitine shuttle (mitochondrial),slc25a20
+MAR00163,Carnitine shuttle (mitochondrial),crot
+MAR02592,Carnitine shuttle (mitochondrial),slc25a20 or slc25a29
+MAR02596,Carnitine shuttle (mitochondrial),slc25a20 or slc25a29
+MAR02598,Carnitine shuttle (mitochondrial),cpt2 or crata
+MAR02612,Carnitine shuttle (mitochondrial),slc22a2 or slc22a21 or slc25a20 or slc25a29
+MAR02624,Carnitine shuttle (mitochondrial),slc22a2 or slc22a21 or slc25a20 or slc25a29
+MAR02629,Carnitine shuttle (mitochondrial),slc22a2 or slc22a21 or slc25a20 or slc25a29
+MAR02634,Carnitine shuttle (mitochondrial),slc22a2 or slc22a21 or slc25a20 or slc25a29
+MAR02638,Carnitine shuttle (mitochondrial),slc22a2 or slc22a21 or slc25a20 or slc25a29
+MAR02640,Carnitine shuttle (mitochondrial),cpt2 or crata
+MAR02644,Carnitine shuttle (mitochondrial),slc22a2 or slc22a21 or slc25a20 or slc25a29
+MAR02655,Carnitine shuttle (mitochondrial),slc22a2 or slc22a21 or slc25a20 or slc25a29
+MAR02658,Carnitine shuttle (mitochondrial),slc22a2 or slc22a21 or slc25a20 or slc25a29
+MAR02664,Carnitine shuttle (mitochondrial),slc22a2 or slc22a21 or slc25a20 or slc25a29
+MAR02665,Carnitine shuttle (mitochondrial),cpt2 or crata
+MAR02667,Carnitine shuttle (mitochondrial),slc22a2 or slc22a21 or slc25a20 or slc25a29
+MAR02673,Carnitine shuttle (mitochondrial),slc22a2 or slc22a21 or slc25a20 or slc25a29
+MAR02679,Carnitine shuttle (mitochondrial),slc22a2 or slc22a21 or slc25a20 or slc25a29
+MAR02712,Carnitine shuttle (mitochondrial),slc22a2 or slc22a21 or slc25a20 or slc25a29
+MAR02713,Carnitine shuttle (mitochondrial),cpt2 or crata
+MAR02715,Carnitine shuttle (mitochondrial),slc22a2 or slc22a21 or slc25a20 or slc25a29
+MAR02718,Carnitine shuttle (mitochondrial),slc22a2 or slc22a21 or slc25a20 or slc25a29
+MAR02722,Carnitine shuttle (mitochondrial),slc22a2 or slc22a21 or slc25a20 or slc25a29
+MAR02727,Carnitine shuttle (mitochondrial),slc22a2 or slc22a21 or slc25a20 or slc25a29
+MAR02731,Carnitine shuttle (mitochondrial),slc22a2 or slc22a21 or slc25a20 or slc25a29
+MAR02744,Carnitine shuttle (mitochondrial),slc22a2 or slc22a21 or slc25a20 or slc25a29
+MAR02748,Carnitine shuttle (mitochondrial),slc22a2 or slc22a21 or slc25a20 or slc25a29
+MAR02753,Carnitine shuttle (mitochondrial),slc22a2 or slc22a21 or slc25a20 or slc25a29
+MAR02757,Carnitine shuttle (mitochondrial),slc22a2 or slc22a21 or slc25a20 or slc25a29
+MAR02760,Carnitine shuttle (mitochondrial),slc22a2 or slc22a21 or slc25a20 or slc25a29
+MAR02764,Carnitine shuttle (mitochondrial),slc22a2 or slc22a21 or slc25a20 or slc25a29
+MAR03520,Carnitine shuttle (mitochondrial),
+MAR08418,Carnitine shuttle (mitochondrial),
+MAR03029,Carnitine shuttle (peroxisomal),crata
+MAR03030,Carnitine shuttle (peroxisomal),crata
+MAR03033,Carnitine shuttle (peroxisomal),slc25a20 or slc25a29
+MAR03034,Carnitine shuttle (peroxisomal),crot
+MAR03035,Carnitine shuttle (peroxisomal),slc25a20 or slc25a29
+MAR03037,Carnitine shuttle (peroxisomal),crata
+MAR02778,Carnitine shuttle (endoplasmic reticular),slc22a21
+MAR02780,Carnitine shuttle (endoplasmic reticular),crata
+MAR02801,Carnitine shuttle (endoplasmic reticular),slc22a21
+MAR02803,Carnitine shuttle (endoplasmic reticular),crata
+MAR02869,Carnitine shuttle (endoplasmic reticular),slc22a21
+MAR02870,Carnitine shuttle (endoplasmic reticular),crata
+MAR02880,Carnitine shuttle (endoplasmic reticular),slc22a21
+MAR02882,Carnitine shuttle (endoplasmic reticular),crata
+MAR02884,Carnitine shuttle (endoplasmic reticular),slc22a21
+MAR02886,Carnitine shuttle (endoplasmic reticular),crata
+MAR02888,Carnitine shuttle (endoplasmic reticular),slc22a21
+MAR02890,Carnitine shuttle (endoplasmic reticular),crata
+MAR02896,Carnitine shuttle (endoplasmic reticular),slc22a21
+MAR02897,Carnitine shuttle (endoplasmic reticular),crata
+MAR02921,Carnitine shuttle (endoplasmic reticular),cpt1a2b or cpt1aa or cpt1ab or cpt1b
+MAR02924,Carnitine shuttle (endoplasmic reticular),cpt1a2b or cpt1aa or cpt1ab or cpt1b
+MAR02927,Carnitine shuttle (endoplasmic reticular),cpt1a2b or cpt1aa or cpt1ab or cpt1b
+MAR00604,Acylglycerides metabolism,dgkaa or dgkb or dgke or dgkh or dgki or dgkza or si:dkey-172j4.3
+MAR03106,Transport reactions,
+MAR01924,Steroid metabolism,star or stard10 or stard13b or stard4 or stard5 or stard7 or stard8 or stard9
+MAR01926,Steroid metabolism,
+MAR04766,Steroid metabolism,ugt1a7 or ugt1ab or ugt2b3
+MAR07942,Steroid metabolism,hsd11b1lb
+MAR07943,Steroid metabolism,hsd11b2
+MAR07976,Steroid metabolism,zgc:56622
+MAR02088,Estrogen metabolism,mpx or prdx6 or tpo
+MAR02089,Estrogen metabolism,mpx or prdx6 or tpo
+MAR00735,Sphingolipid metabolism,sgms1b or sgms2a
+MAR00736,Sphingolipid metabolism,sgms1b or sgms2a
+MAR00763,Sphingolipid metabolism,
+MAR00766,Sphingolipid metabolism,glb1 or glb1l or lct
+MAR00786,Sphingolipid metabolism,glb1 and glb1l and lct and tmppe
+MAR00625,Glycerophospholipid metabolism,cept1b or chpt1
+MAR00640,Glycerophospholipid metabolism,chata
+MAR08362,Glycerophospholipid metabolism,chata
+MAR01996,Glucocorticoid biosynthesis,hsd11b1lb
+MAR01308,Prostaglandin biosynthesis,ptgis
+MAR01310,Prostaglandin biosynthesis,
+MAR01312,Prostaglandin biosynthesis,ptges or ptges3a or ptgesl
+MAR01315,Prostaglandin biosynthesis,
+MAR01318,Prostaglandin biosynthesis,
+MAR01321,Prostaglandin biosynthesis,rpp14 or scarf2
+MAR01322,Prostaglandin biosynthesis,
+MAR01323,Prostaglandin biosynthesis,
+MAR01324,Prostaglandin biosynthesis,
+MAR01325,Prostaglandin biosynthesis,zgc:56622
+MAR01326,Prostaglandin biosynthesis,zgc:56622
+MAR01327,Prostaglandin biosynthesis,cbr1 or dhrs4 or zgc:56622
+MAR01329,Prostaglandin biosynthesis,zgc:56622
+MAR01330,Prostaglandin biosynthesis,ptgdsb.1 or ptgdsb.2
+MAR01333,Prostaglandin biosynthesis,
+MAR01335,Prostaglandin biosynthesis,
+MAR01373,Prostaglandin biosynthesis,
+MAR01375,Prostaglandin biosynthesis,
+MAR01376,Prostaglandin biosynthesis,
+MAR01604,Bile acid biosynthesis,cyp27a1.1 or cyp27a1.2 or cyp27a1.4 or zgc:136333
+MAR01605,Bile acid biosynthesis,cyp27a1.1 or cyp27a1.2 or cyp27a1.4 or zgc:136333
+MAR01608,Bile acid biosynthesis,cyp27a1.1 or cyp27a1.2 or cyp27a1.4 or zgc:136333
+MAR01611,Bile acid biosynthesis,cyp27a1.1 or cyp27a1.2 or cyp27a1.4 or zgc:136333
+MAR01620,Transport reactions,slc27a2b
+MAR01623,Transport reactions,
+MAR01642,Bile acid biosynthesis,acaa1 and ehhadh and hsd17b4
+MAR01646,Bile acid biosynthesis,acaa1 and ehhadh and hsd17b4
+MAR01684,Bile acid biosynthesis,adh5 or adh5l or adh8a or adh8b or adhfe1 or zgc:77938
+MAR01685,Bile acid biosynthesis,cyp27a1.1 or cyp27a1.2 or cyp27a1.4 or zgc:136333
+MAR01692,Bile acid biosynthesis,aldh2.1 or aldh2.2 or aldh3a2a or aldh3a2b or aldh7a1 or aldh9a1a.1 or aldh9a1a.2
+MAR01694,Transport reactions,acaa1 or acaa2 or hadhb or myo5b
+MAR01772,Transport reactions,
+MAR01774,Transport reactions,
+MAR01784,Bile acid biosynthesis,ch25h
+MAR01785,Bile acid biosynthesis,ch25h
+MAR01786,Bile acid biosynthesis,ch25h
+MAR01802,Bile acid biosynthesis,cyp27a1.1 or cyp27a1.2 or cyp27a1.4 or cyp2y3 or zgc:136333
+MAR01806,Bile acid biosynthesis,cyp27a1.1 or cyp27a1.2 or cyp27a1.4 or zgc:136333
+MAR01852,Transport reactions,slc10a1
+MAR01855,Transport reactions,slc10a1
+MAR01859,Transport reactions,
+MAR01862,Bile acid recycling,slc10a1 or slc10a2
+MAR01863,Bile acid recycling,slc10a1 or slc10a2
+MAR01864,Bile acid recycling,slc10a1 or slc10a2
+MAR01865,Bile acid recycling,slc10a1 or slc10a2
+MAR01866,Bile acid recycling,slc10a1 or slc10a2
+MAR01867,Bile acid recycling,slc10a1 or slc10a2
+MAR01875,Bile acid recycling,slc7a9 or slco1d1 or slco1e1
+MAR01876,Bile acid recycling,slc7a9 or slco1d1 or slco1e1
+MAR01877,Bile acid recycling,slc7a9 or slco1d1 or slco1e1
+MAR01878,Transport reactions,slco1d1 or slco1e1 or slco4a1
+MAR01879,Bile acid recycling,slc7a9 or slco1d1 or slco1e1
+MAR01880,Bile acid recycling,slc7a9 or slco1d1 or slco1e1
+MAR01881,Bile acid recycling,slc7a9 or slco1d1 or slco1e1
+MAR01882,Bile acid recycling,slc7a9 or slco1d1 or slco1e1
+MAR01883,Bile acid recycling,slc7a9 or slco1d1 or slco1e1
+MAR01884,Bile acid recycling,slc7a9 or slco1d1 or slco1e1
+MAR01885,Bile acid recycling,slc7a9 or slco1d1 or slco1e1
+MAR01886,Bile acid recycling,slc7a9 or slco1d1 or slco1e1
+MAR01887,Bile acid recycling,slc7a9 or slco1d1 or slco1e1
+MAR01888,Bile acid recycling,slc7a9 or slco1d1 or slco1e1
+MAR01889,Bile acid recycling,slc7a9 or slco1d1 or slco1e1
+MAR01890,Bile acid recycling,slc7a9 or slco1d1 or slco1e1
+MAR01891,Bile acid recycling,slc7a9 or slco1d1 or slco1e1
+MAR01892,Bile acid recycling,slc7a9 or slco1d1 or slco1e1
+MAR01893,Bile acid recycling,slc7a9 or slco1d1 or slco1e1
+MAR01894,Bile acid recycling,slc7a9 or slco1d1 or slco1e1
+MAR00712,Nicotinate and nicotinamide metabolism,idh1
+MAR04714,Pantothenate and CoA metabolism,pank1b or pank2
+MAR04716,Pantothenate and CoA metabolism,
+MAR04725,Pantothenate and CoA metabolism,ppcdc
+MAR04730,Pantothenate and CoA metabolism,pank1b or pank2
+MAR03925,Folate metabolism,qdprb.1
+MAR04332,Folate metabolism,dhfr
+MAR04333,Folate metabolism,dhfr
+MAR04335,Folate metabolism,dhfr
+MAR04440,Folate metabolism,mthfd2 or mthfd2l
+MAR04442,Folate metabolism,mthfd1b
+MAR04444,Folate metabolism,mthfd1b or mthfd1l or mthfd2
+MAR04446,Folate metabolism,mthfr
+MAR04448,Folate metabolism,mthfr
+MAR04503,Folate metabolism,mthfd1b
+MAR04505,Folate metabolism,mthfd1l or mthfd2 or mthfd2l
+MAR04654,Folate metabolism,dhfr
+MAR04655,Folate metabolism,dhfr
+MAR04656,Folate metabolism,dhfr
+MAR08144,Folate metabolism,mthfd1b
+MAR04165,Biopterin metabolism,spra or sprb
+MAR04166,Biopterin metabolism,spra or sprb
+MAR04167,Biopterin metabolism,spra or sprb
+MAR04523,Biopterin metabolism,qdprb.1
+MAR04539,Biopterin metabolism,pcbd1
+MAR04540,Biopterin metabolism,pcbd1
+MAR04541,Biopterin metabolism,pcbd1
+MAR04542,Biopterin metabolism,pcbd1
+MAR04543,Biopterin metabolism,pcbd1
+MAR04544,Biopterin metabolism,pcbd1
+MAR08740,Biopterin metabolism,
+MAR06394,Ascorbate and aldarate metabolism,
+MAR06396,Ascorbate and aldarate metabolism,glrx or glrx2
+MAR08345,Ascorbate and aldarate metabolism,
+MAR08346,Ascorbate and aldarate metabolism,rgn
+MAR08348,Ascorbate and aldarate metabolism,
+MAR08620,Ascorbate and aldarate metabolism,
+MAR06630,Retinol metabolism,dhrs3a or dhrs3b or dhrs9 or rdh10a or rdh12 or rdh8a or rdh8b
+MAR06631,Retinol metabolism,adh5 or adh5l or adh8a or adh8b or adhfe1 or rdh1 or rdh5 or sdr16c5b or zgc:77938
+MAR06638,Retinol metabolism,dhrs4 or irbpl or rdh1 or rdh5 or rlbp1a or rlbp1b or sdr16c5b
+MAR06643,Retinol metabolism,rbp1.2 or rbp2a
+MAR06644,Retinol metabolism,adh5l or adh8a or adh8b or dhrs4 or irbpl or rdh1 or rdh5 or rlbp1a or rlbp1b or sdr16c5b or zgc:77938
+MAR06645,Retinol metabolism,rbp1.2 or rbp2a
+MAR06646,Retinol metabolism,aldh1a2 or aldh1a3
+MAR06647,Retinol metabolism,aldh1a2
+MAR06650,Retinol metabolism,rbp1.2 or rbp2a
+MAR06651,Retinol metabolism,rbp1.2 or rbp2a
+MAR06652,Retinol metabolism,aldh1a2
+MAR06660,Retinol metabolism,
+MAR06661,Retinol metabolism,gstm.1
+MAR06662,Retinol metabolism,
+MAR06672,Retinol metabolism,
+MAR06673,Retinol metabolism,
+MAR06674,Retinol metabolism,aldh1a2
+MAR06675,Retinol metabolism,aldh1a2
+MAR06676,Retinol metabolism,aldh1a2
+MAR08698,Retinol metabolism,
+MAR08699,Retinol metabolism,
+MAR08702,Retinol metabolism,
+MAR08709,Retinol metabolism,dhrs4 or irbpl or rdh1 or rdh5 or rlbp1a or rlbp1b or sdr16c5b
+MAR08710,Retinol metabolism,rdh5
+MAR08711,Retinol metabolism,
+MAR04548,Serotonin and melatonin biosynthesis,cyp1a or cyp1b1
+MAR04552,Serotonin and melatonin biosynthesis,
+MAR04553,Serotonin and melatonin biosynthesis,
+MAR02114,Vitamin D metabolism,
+MAR08011,Vitamin D metabolism,
+MAR08014,Vitamin D metabolism,
+MAR06457,Vitamin E metabolism,
+MAR06500,Vitamin E metabolism,
+MAR03955,Miscellaneous,ca2 or ca7 or cahz
+MAR05127,Miscellaneous,
+MAR05128,Miscellaneous,
+MAR09581,Transport reactions,slc22a2 or slc22a3
+MAR09582,Transport reactions,slc47a2.2 or slc47a3 or slc47a4
+MAR09583,Transport reactions,slc22a2
+MAR09584,Transport reactions,slc47a2.2 or slc47a3 or slc47a4
+MAR00019,Transport reactions,scarb1
+MAR00155,Transport reactions,cd36 or fabp1a or fabp2 or fabp3 or fabp4a or fabp4b or fabp6 or fabp7a or slc27a1a or slc27a4 or slc27a6
+MAR00225,Transport reactions,cd36 or fabp1a or fabp2 or fabp3 or fabp4a or fabp4b or fabp6 or fabp7a or slc27a1a or slc27a4 or slc27a6
+MAR00408,Transport reactions,cd36 or fabp1a or fabp2 or fabp3 or fabp4a or fabp4b or fabp6 or fabp7a or slc27a1a or slc27a4 or slc27a6
+MAR00444,Transport reactions,aqp3a or aqp3b or aqp7
+MAR00770,Transport reactions,gltpa
+MAR01082,Transport reactions,abcc1
+MAR01898,Transport reactions,slc7a9 or slco1d1 or slco1e1
+MAR01899,Transport reactions,slc7a9 or slco1d1 or slco1e1
+MAR01900,Transport reactions,slc7a9 or slco1d1 or slco1e1
+MAR01901,Transport reactions,slc7a9 or slco1d1 or slco1e1
+MAR01902,Transport reactions,slc7a9 or slco1d1 or slco1e1
+MAR01903,Transport reactions,slc7a9 or slco1d1 or slco1e1
+MAR01904,Transport reactions,slc7a9 or slco1d1 or slco1e1
+MAR01905,Transport reactions,slc7a9 or slco1d1 or slco1e1
+MAR01906,Transport reactions,slc7a9 or slco1d1 or slco1e1
+MAR01907,Transport reactions,slc7a9 or slco1d1 or slco1e1
+MAR01908,Transport reactions,slc7a9 or slco1d1 or slco1e1
+MAR01909,Transport reactions,slc7a9 or slco1d1 or slco1e1
+MAR01914,Transport reactions,slc26a1 or slc26a11 or slc26a2 or slc26a3.1 or slc26a3.2
+MAR03916,Transport reactions,folr
+MAR03951,Transport reactions,
+MAR04321,Transport reactions,slc2a11a or slc2a15a or slc2a15b or slc2a2 or slc2a5 or slc2a8
+MAR04433,Transport reactions,slco1d1 or slco1e1
+MAR04434,Transport reactions,slco1d1 or slco1e1
+MAR04435,Transport reactions,slco1d1 or slco1e1
+MAR04436,Transport reactions,slco1d1 or slco1e1
+MAR04691,Transport reactions,si:ch211-132b12.1 or si:ch211-132b12.2 or si:ch211-132b12.3 or si:ch211-132b12.6 or slc6a11a or slc6a11b or slc6a13 or slc6a1a or slc6a1b or slc6a22.1 or slc6a22.2 or zgc:158427
+MAR04721,Transport reactions,slc5a6a
+MAR04844,Transport reactions,fasn
+MAR04845,Transport reactions,slc28a1
+MAR04849,Transport reactions,slc7a2
+MAR04858,Transport reactions,slc2a10 or slc2a1b or slc2a2 or slc2a3a or slc2a3b or slc2a8
+MAR04861,Transport reactions,slc2a13b
+MAR04873,Transport reactions,rhag
+MAR04875,Transport reactions,
+MAR04885,Transport reactions,aqp10b or aqp1a.1 or aqp1a.2 or aqp3a or aqp3b or aqp4 or aqp7 or aqp8a.1 or slc5a1
+MAR04910,Transport reactions,si:ch1073-513e17.1 or slc20a1b or slc20a2 or slc34a1a or slc34a2a
+MAR04912,Transport reactions,slc20a1b or slc20a2
+MAR04919,Transport reactions,
+MAR04928,Transport reactions,slc16a1a or slc16a1b or slc16a3a or slc16a3b or slc16a4 or slc16a5a or slc16a5b or slc16a6b or slc16a8 or zgc:165507
+MAR04932,Transport reactions,slc1a1 or slc1a2b or slc1a3a or slc1a6 or slc1a7a or slc1a7b
+MAR04933,Transport reactions,slc25a19
+MAR04934,Transport reactions,
+MAR04935,Transport reactions,slc16a1a or slc16a1b or slc16a3a or slc16a3b or slc16a4 or slc16a5a or slc16a5b or slc16a6b or slc16a8 or zgc:165507
+MAR04946,Transport reactions,slc26a1 or slc26a11 or slc26a2 or slc26a3.1 or slc26a3.2
+MAR04949,Transport reactions,aqp9b or slc14a2
+MAR04954,Transport reactions,slc22a2 or slc22a21 or slc44a1a or slc44a1b or slc44a2 or slc44a4 or slc44a5a or slc44a5b
+MAR04956,Transport reactions,slc12a1 or slc12a2
+MAR04958,Transport reactions,
+MAR04973,Transport reactions,slc2a1b or slc2a2 or slc2a3a or slc2a3b
+MAR04975,Transport reactions,slc5a9
+MAR04976,Transport reactions,slc16a1a or slc16a1b or slc16a3a or slc16a3b or slc16a4 or slc16a5a or slc16a5b or slc16a6b or slc16a8 or zgc:165507
+MAR04983,Transport reactions,slc28a1
+MAR04989,Transport reactions,
+MAR04992,Transport reactions,slc6a8
+MAR04995,Transport reactions,
+MAR04999,Transport reactions,slc22a2 or slc22a3
+MAR05003,Transport reactions,slc29a1b or slc29a2
+MAR05005,Transport reactions,cp
+MAR05007,Transport reactions,folr
+MAR05008,Transport reactions,slc29a1b or slc29a2
+MAR05013,Transport reactions,slc22a2
+MAR05018,Transport reactions,slc16a1a or slc16a1b or slc16a3a or slc16a3b or slc16a4 or slc16a5a or slc16a5b or slc16a6b or slc16a8 or zgc:165507
+MAR05021,Transport reactions,slc23a1 or slc23a2
+MAR05023,Transport reactions,rhag
+MAR05029,Transport reactions,slc2a10 or slc2a11a or slc2a12 or slc2a15a or slc2a15b or slc2a1b or slc2a2 or slc2a3a or slc2a3b or slc2a5 or slc2a6 or slc2a8
+MAR05032,Transport reactions,slc29a1b or slc29a2 or slc29a4a
+MAR05034,Transport reactions,slc29a1b or slc29a2
+MAR05035,Transport reactions,slc29a1b or slc29a2
+MAR05037,Transport reactions,slc29a1b or slc29a2
+MAR05038,Transport reactions,slc28a1
+MAR05039,Transport reactions,slc28a1
+MAR05040,Transport reactions,slc28a1
+MAR05041,Transport reactions,slc28a1
+MAR05042,Transport reactions,slc29a1b or slc29a2
+MAR05068,Transport reactions,slc38a4 or slc7a1b or slc7a2 or slc7a3a
+MAR05070,Transport reactions,(slc3a2a and slc7a8a) or slc36a1 or slc43a1a or slc43a1b or slc43a2a or slc43a2b or slc7a1b or slc7a2 or slc7a3a or slc7a5 or slc7a7
+MAR05071,Transport reactions,slc38a4 or slc7a1b or slc7a2 or slc7a3a
+MAR05073,Transport reactions,(slc3a2a and slc7a8a) or slc36a1 or slc43a1a or slc43a1b or slc43a2a or slc43a2b or slc7a1b or slc7a2 or slc7a3a or slc7a5 or slc7a7
+MAR05074,Transport reactions,(slc3a2a and slc7a8a) or slc16a10 or slc36a1 or slc43a1a or slc43a1b or slc43a2a or slc43a2b or slc7a1b or slc7a2 or slc7a3a or slc7a5 or slc7a7
+MAR05076,Transport reactions,(slc3a2a and slc7a8a) or slc36a1 or slc43a1a or slc43a1b or slc43a2a or slc43a2b or slc6a18 or slc7a10a or slc7a10b or slc7a1b or slc7a2 or slc7a3a or slc7a5 or slc7a7
+MAR05077,Transport reactions,(slc3a2a and slc7a8a) or slc36a1 or slc43a1a or slc43a1b or slc43a2a or slc43a2b or slc7a10a or slc7a10b or slc7a1b or slc7a2 or slc7a3a or slc7a5 or slc7a7
+MAR05078,Transport reactions,(slc3a2a and slc7a8a) or slc36a1 or slc43a1a or slc43a1b or slc43a2a or slc43a2b or slc7a1b or slc7a2 or slc7a3a or slc7a5 or slc7a7
+MAR05079,Transport reactions,(slc3a2a and slc7a8a) or slc36a1 or slc43a1a or slc43a1b or slc43a2a or slc43a2b or slc7a10a or slc7a10b or slc7a1b or slc7a2 or slc7a3a or slc7a5 or slc7a7
+MAR05080,Transport reactions,(slc3a2a and slc7a8a) or slc16a10 or slc36a1 or slc43a1a or slc43a1b or slc43a2a or slc43a2b or slc7a1b or slc7a2 or slc7a3a or slc7a5 or slc7a7
+MAR05082,Transport reactions,(slc3a2a and slc7a8a) or slc16a10 or slc36a1 or slc43a1a or slc43a1b or slc43a2a or slc43a2b or slc7a1b or slc7a2 or slc7a3a or slc7a5 or slc7a7
+MAR05084,Transport reactions,(slc3a2a and slc7a8a) or slc36a1 or slc43a1a or slc43a1b or slc43a2a or slc43a2b or slc7a10a or slc7a10b or slc7a1b or slc7a2 or slc7a3a or slc7a5 or slc7a7
+MAR05085,Transport reactions,(slc3a2a and slc7a8a) or slc36a1 or slc43a1a or slc43a1b or slc43a2a or slc43a2b or slc7a1b or slc7a2 or slc7a3a or slc7a5 or slc7a7
+MAR05087,Transport reactions,slc36a1 or slc43a1a or slc43a1b or slc43a2a or slc43a2b or slc7a1b or slc7a2 or slc7a3a or slc7a5 or slc7a7 or slc7a8a
+MAR05088,Transport reactions,(slc3a2a and slc7a8a) or slc36a1 or slc43a1a or slc43a1b or slc43a2a or slc43a2b or slc7a1b or slc7a2 or slc7a3a or slc7a5 or slc7a7
+MAR05089,Transport reactions,(slc3a2a and slc7a8a) or slc36a1 or slc43a1a or slc43a1b or slc43a2a or slc43a2b or slc7a1b or slc7a2 or slc7a3a or slc7a5 or slc7a7
+MAR05091,Transport reactions,(slc3a2a and slc7a8a) or slc36a1 or slc43a1a or slc43a1b or slc43a2a or slc43a2b or slc7a10a or slc7a10b or slc7a1b or slc7a2 or slc7a3a or slc7a5 or slc7a7
+MAR05092,Transport reactions,(slc3a2a and slc7a8a) or slc36a1 or slc43a1a or slc43a1b or slc43a2a or slc43a2b or slc7a1b or slc7a2 or slc7a3a or slc7a5 or slc7a7
+MAR05094,Transport reactions,slc38a4 or slc7a1b or slc7a2 or slc7a3a
+MAR05129,Transport reactions,slc28a1
+MAR05305,Transport reactions,slc1a4 or slc1a5 or slc38a2 or slc38a4 or slc6a15 or slc6a19a.2 or slc6a19b or slc7a1b or slc7a2 or slc7a3a
+MAR05307,Transport reactions,slc38a3a or slc38a3b or slc38a5a or slc38a5b
+MAR05308,Transport reactions,slc1a5 or slc38a2 or slc38a4 or slc6a15 or slc6a19a.2 or slc6a19b
+MAR05311,Transport reactions,slc38a2 or slc38a4 or slc6a15
+MAR05313,Transport reactions,slc38a3a or slc38a3b or slc38a5a or slc38a5b
+MAR05314,Transport reactions,slc6a15 or slc6a19a.2 or slc6a19b
+MAR05315,Transport reactions,slc38a2 or slc38a4 or slc3a2a or slc6a15 or slc6a19a.2 or slc6a19b or slc7a1b or slc7a2 or slc7a3a
+MAR05316,Transport reactions,slc6a15 or slc6a19a.2 or slc6a19b
+MAR05317,Transport reactions,slc6a19a.2 or slc6a19b
+MAR05318,Transport reactions,slc6a19a.2 or slc6a19b
+MAR05319,Transport reactions,slc38a2 or slc38a4 or slc6a19a.2 or slc6a19b or slc7a1b or slc7a2 or slc7a3a
+MAR05320,Transport reactions,slc38a2 or slc38a4 or slc6a19a.2 or slc6a19b
+MAR05322,Transport reactions,slc38a2 or slc38a4 or slc6a15
+MAR05324,Transport reactions,slc22a21 or slc38a2 or slc38a4 or slc6a15 or slc6a19a.2 or slc6a19b
+MAR05326,Transport reactions,slc38a2 or slc38a4 or slc6a15
+MAR05328,Transport reactions,slc1a1 or slc1a2b or slc1a3a or slc1a6 or slc25a20
+MAR05330,Transport reactions,slc1a1 or slc1a2b or slc1a3a or slc1a6 or slc1a7a or slc1a7b or slc25a20 or slc6a19a.2 or slc6a19b
+MAR05333,Transport reactions,slc38a2 or slc38a4
+MAR05335,Transport reactions,slc38a3a or slc38a3b
+MAR05430,Transport reactions,slc9a1b or slc9a2 or slc9a3.1 or slc9a5
+MAR05432,Transport reactions,slc4a7
+MAR05433,Transport reactions,(abcc8 and kcnj8) or (abcc9 and kcnj8) or (abcc8 and kcnj11) or (abcc9 and kcnj11)
+MAR05435,Transport reactions,slc10a1 or slc10a2
+MAR05436,Transport reactions,slc10a1 or slc10a2
+MAR05437,Transport reactions,slc10a1 or slc10a2
+MAR05438,Transport reactions,slc10a1 or slc10a2
+MAR05439,Transport reactions,slc10a1 or slc10a2
+MAR05440,Transport reactions,
+MAR05441,Transport reactions,slc43a1a or slc43a1b
+MAR05447,Transport reactions,slc1a1 or slc1a2b or slc1a3a or slc1a6 or slc1a7a or slc1a7b
+MAR05448,Transport reactions,slc4a4a or slc4a5a
+MAR05450,Transport reactions,slc5a10 or slc5a11 or slc5a12 or slc5a2 or slc5a9
+MAR05451,Transport reactions,slc6a6a or slc6a6b
+MAR05454,Transport reactions,slc6a6a or slc6a6b
+MAR05455,Transport reactions,slc6a14 or slc6a9
+MAR05457,Transport reactions,slc6a5
+MAR05458,Transport reactions,slc3a2a or slc7a10a or slc7a10b or slc7a5
+MAR05459,Transport reactions,slc7a5
+MAR05460,Transport reactions,slc3a2a or slc7a10a or slc7a10b or slc7a5
+MAR05461,Transport reactions,slc7a5
+MAR05462,Transport reactions,slc7a5
+MAR05463,Transport reactions,slc7a5
+MAR05464,Transport reactions,slc7a5
+MAR05465,Transport reactions,(slc3a2a and slc7a8a) or slc7a5
+MAR05466,Transport reactions,slc7a5
+MAR05467,Transport reactions,slc7a5
+MAR05468,Transport reactions,slc7a5
+MAR05469,Transport reactions,slc7a5
+MAR05470,Transport reactions,slc3a2a or slc7a10a or slc7a10b or slc7a5
+MAR05471,Transport reactions,slc7a5
+MAR05472,Transport reactions,slc7a5
+MAR05473,Transport reactions,slc3a2a or slc7a10a or slc7a10b or slc7a5
+MAR05474,Transport reactions,slc7a5
+MAR05475,Transport reactions,slc7a5
+MAR05476,Transport reactions,slc7a5
+MAR05477,Transport reactions,slc7a5
+MAR05478,Transport reactions,slc7a5
+MAR05479,Transport reactions,slc7a5
+MAR05480,Transport reactions,slc7a5
+MAR05481,Transport reactions,slc7a5
+MAR05482,Transport reactions,slc7a5
+MAR05483,Transport reactions,slc7a5
+MAR05484,Transport reactions,slc7a5
+MAR05485,Transport reactions,slc7a5
+MAR05486,Transport reactions,slc7a5
+MAR05487,Transport reactions,slc3a2a or slc7a10a or slc7a10b or slc7a5
+MAR05488,Transport reactions,slc7a5
+MAR05489,Transport reactions,slc7a5
+MAR05490,Transport reactions,slc7a5
+MAR05491,Transport reactions,slc7a5
+MAR05492,Transport reactions,(slc3a2a and slc7a5) or ((slc7a10a or slc7a10b) and slc3a2a)
+MAR05493,Transport reactions,slc7a5
+MAR05494,Transport reactions,slc7a5
+MAR05495,Transport reactions,slc7a5
+MAR05496,Transport reactions,slc7a5
+MAR05497,Transport reactions,slc3a2a or slc7a10a or slc7a10b or slc7a5
+MAR05498,Transport reactions,slc7a5
+MAR05499,Transport reactions,slc7a5
+MAR05500,Transport reactions,slc7a5
+MAR05501,Transport reactions,slc7a5
+MAR05502,Transport reactions,slc7a5
+MAR05503,Transport reactions,slc7a5
+MAR05504,Transport reactions,slc7a5
+MAR05505,Transport reactions,slc7a5
+MAR05506,Transport reactions,slc7a5
+MAR05507,Transport reactions,slc7a5
+MAR05508,Transport reactions,slc7a5
+MAR05509,Transport reactions,slc7a5
+MAR05510,Transport reactions,slc7a5
+MAR05511,Transport reactions,slc7a5
+MAR05512,Transport reactions,slc7a5
+MAR05513,Transport reactions,slc7a5
+MAR05514,Transport reactions,slc7a5
+MAR05515,Transport reactions,slc7a5
+MAR05516,Transport reactions,slc3a2a and slc7a5
+MAR05517,Transport reactions,slc7a5
+MAR05518,Transport reactions,slc7a5
+MAR05519,Transport reactions,slc7a5
+MAR05520,Transport reactions,slc7a5
+MAR05521,Transport reactions,slc7a5
+MAR05522,Transport reactions,slc7a5
+MAR05523,Transport reactions,slc7a5
+MAR05524,Transport reactions,slc7a5
+MAR05525,Transport reactions,slc7a5
+MAR05526,Transport reactions,slc7a5
+MAR05527,Transport reactions,abca1a or abca1b or slc7a5
+MAR05528,Transport reactions,abca1a or abca1b or slc7a5
+MAR05529,Transport reactions,abca1a or abca1b or slc7a5
+MAR05530,Transport reactions,abca1a or abca1b or slc7a5
+MAR05531,Transport reactions,abca1a or abca1b or slc7a5
+MAR05532,Transport reactions,abca1a or abca1b or slc7a5
+MAR05533,Transport reactions,abca1a or abca1b or slc7a5
+MAR05534,Transport reactions,abca1a or abca1b or slc7a5
+MAR05535,Transport reactions,abca1a or abca1b or slc7a5
+MAR05536,Transport reactions,abca1a or abca1b or slc7a5
+MAR05537,Transport reactions,abca1a or abca1b or slc7a5
+MAR05538,Transport reactions,abca1a or abca1b or slc7a5
+MAR05539,Transport reactions,abca1a or abca1b or slc7a5
+MAR05540,Transport reactions,abca1a or abca1b or slc7a5
+MAR05541,Transport reactions,abca1a or abca1b or slc7a5
+MAR05542,Transport reactions,slc7a5
+MAR05543,Transport reactions,slc7a5
+MAR05544,Transport reactions,slc7a5
+MAR05545,Transport reactions,slc7a5
+MAR05546,Transport reactions,slc7a5
+MAR05547,Transport reactions,slc4a5a or slc7a5
+MAR05548,Transport reactions,slc7a5
+MAR05549,Transport reactions,slc7a5
+MAR05550,Transport reactions,slc3a1 and slc7a9
+MAR05551,Transport reactions,slc7a5
+MAR05552,Transport reactions,slc7a5
+MAR05553,Transport reactions,slc7a5
+MAR05554,Transport reactions,slc7a5
+MAR05555,Transport reactions,slc7a5
+MAR05556,Transport reactions,slc7a5
+MAR05557,Transport reactions,slc7a5
+MAR05558,Transport reactions,slc7a5
+MAR05559,Transport reactions,slc7a5
+MAR05560,Transport reactions,slc7a5
+MAR05561,Transport reactions,slc7a5
+MAR05562,Transport reactions,slc7a5
+MAR05563,Transport reactions,slc7a5
+MAR05564,Transport reactions,slc7a5
+MAR05565,Transport reactions,slc7a5
+MAR05566,Transport reactions,slc7a5
+MAR05567,Transport reactions,slc7a5
+MAR05568,Transport reactions,slc7a5
+MAR05569,Transport reactions,slc7a5
+MAR05570,Transport reactions,slc7a5
+MAR05571,Transport reactions,slc7a5
+MAR05572,Transport reactions,slc7a5
+MAR05573,Transport reactions,slc7a5
+MAR05574,Transport reactions,slc7a5
+MAR05575,Transport reactions,slc7a5
+MAR05576,Transport reactions,slc7a5
+MAR05577,Transport reactions,slc7a5
+MAR05578,Transport reactions,slc3a2a or slc7a5 or slc7a6
+MAR05579,Transport reactions,slc7a5 or slc7a6
+MAR05580,Transport reactions,slc7a5 or slc7a6
+MAR05581,Transport reactions,slc7a5 or slc7a6
+MAR05582,Transport reactions,slc7a5 or slc7a6
+MAR05583,Transport reactions,slc7a5 or slc7a6
+MAR05584,Transport reactions,slc7a5 or slc7a6
+MAR05585,Transport reactions,slc7a5 or slc7a6
+MAR05586,Transport reactions,slc7a5 or slc7a6
+MAR05587,Transport reactions,slc7a5 or slc7a6
+MAR05588,Transport reactions,slc7a5 or slc7a6
+MAR05589,Transport reactions,slc7a5 or slc7a6
+MAR05590,Transport reactions,slc7a5 or slc7a6
+MAR05591,Transport reactions,slc7a5 or slc7a6
+MAR05592,Transport reactions,slc7a5 or slc7a6
+MAR05593,Transport reactions,slc7a5 or slc7a6
+MAR05594,Transport reactions,slc7a5 or slc7a6
+MAR05595,Transport reactions,slc7a5 or slc7a6
+MAR05596,Transport reactions,slc7a5 or slc7a6
+MAR05597,Transport reactions,slc7a5 or slc7a6
+MAR05598,Transport reactions,slc7a5 or slc7a6
+MAR05599,Transport reactions,slc7a5 or slc7a6
+MAR05600,Transport reactions,slc7a5 or slc7a6
+MAR05601,Transport reactions,slc7a5 or slc7a6
+MAR05602,Transport reactions,slc7a5 or slc7a6
+MAR05603,Transport reactions,slc1a5 or slc7a6
+MAR05604,Transport reactions,slc1a4 or slc1a5 or slc7a6
+MAR05605,Transport reactions,slc7a5 or slc7a6
+MAR05606,Transport reactions,slc7a5 or slc7a6
+MAR05607,Transport reactions,slc7a5 or slc7a6
+MAR05608,Transport reactions,slc7a5 or slc7a6
+MAR05609,Transport reactions,slc1a4 or slc1a5 or slc7a6
+MAR05610,Transport reactions,slc7a5 or slc7a6
+MAR05611,Transport reactions,slc7a5 or slc7a6
+MAR05612,Transport reactions,slc1a5 or slc7a6
+MAR05613,Transport reactions,slc7a5 or slc7a6
+MAR05614,Transport reactions,slc1a4 or slc1a5 or slc7a6
+MAR05615,Transport reactions,slc7a5 or slc7a6
+MAR05616,Transport reactions,slc7a5 or slc7a6
+MAR05617,Transport reactions,slc7a5 or slc7a6
+MAR05618,Transport reactions,slc1a5 or slc7a6
+MAR05619,Transport reactions,slc1a5 or slc7a6
+MAR05620,Transport reactions,slc7a5 or slc7a6
+MAR05621,Transport reactions,slc7a5 or slc7a6
+MAR05622,Transport reactions,slc7a5 or slc7a6
+MAR05623,Transport reactions,slc7a5 or slc7a6
+MAR05624,Transport reactions,slc1a5 or slc7a6
+MAR05625,Transport reactions,slc7a5 or slc7a6
+MAR05626,Transport reactions,slc7a5 or slc7a6
+MAR05627,Transport reactions,slc1a5 or slc7a6
+MAR05628,Transport reactions,slc7a5 or slc7a6
+MAR05629,Transport reactions,slc1a5 or slc7a6
+MAR05630,Transport reactions,slc7a5 or slc7a6
+MAR05631,Transport reactions,slc7a5 or slc7a6
+MAR05632,Transport reactions,slc7a5 or slc7a6
+MAR05633,Transport reactions,slc1a4 or slc1a5 or slc7a6
+MAR05634,Transport reactions,slc1a5 or slc7a6
+MAR05635,Transport reactions,slc7a5 or slc7a6
+MAR05636,Transport reactions,slc7a5 or slc7a6
+MAR05637,Transport reactions,slc7a5 or slc7a6
+MAR05638,Transport reactions,slc7a5 or slc7a6
+MAR05639,Transport reactions,slc1a4 or slc1a5 or slc7a6
+MAR05640,Transport reactions,slc7a5 or slc7a6
+MAR05641,Transport reactions,slc7a5 or slc7a6
+MAR05642,Transport reactions,slc1a5 or slc7a6
+MAR05643,Transport reactions,slc7a5 or slc7a6
+MAR05644,Transport reactions,slc1a4 or slc1a5 or slc7a6
+MAR05645,Transport reactions,slc7a5 or slc7a6
+MAR05646,Transport reactions,slc7a5 or slc7a6
+MAR05647,Transport reactions,slc7a5 or slc7a6
+MAR05648,Transport reactions,slc7a5 or slc7a6
+MAR05649,Transport reactions,slc7a5 or slc7a6
+MAR05650,Transport reactions,slc7a5 or slc7a6
+MAR05651,Transport reactions,slc7a5 or slc7a6
+MAR05652,Transport reactions,slc7a5 or slc7a6
+MAR05653,Transport reactions,slc7a5 or slc7a6
+MAR05654,Transport reactions,slc7a5 or slc7a6
+MAR05655,Transport reactions,slc7a5 or slc7a6
+MAR05656,Transport reactions,slc7a5 or slc7a6
+MAR05657,Transport reactions,slc7a5 or slc7a6
+MAR05658,Transport reactions,slc7a5 or slc7a6
+MAR05659,Transport reactions,slc7a5 or slc7a6
+MAR05660,Transport reactions,slc7a5 or slc7a6
+MAR05661,Transport reactions,slc7a5 or slc7a6
+MAR05662,Transport reactions,slc7a5 or slc7a6
+MAR05663,Transport reactions,slc7a5 or slc7a6
+MAR05664,Transport reactions,slc7a5 or slc7a6
+MAR05665,Transport reactions,slc7a5 or slc7a6
+MAR05666,Transport reactions,slc7a5 or slc7a6
+MAR05667,Transport reactions,slc7a5 or slc7a6
+MAR05668,Transport reactions,slc7a5 or slc7a6
+MAR05669,Transport reactions,slc7a5 or slc7a6
+MAR05670,Transport reactions,slc7a5 or slc7a6
+MAR05671,Transport reactions,slc7a5 or slc7a6
+MAR05672,Transport reactions,slc7a5 or slc7a6
+MAR05673,Transport reactions,slc7a5 or slc7a6
+MAR05674,Transport reactions,slc7a5 or slc7a6
+MAR05675,Transport reactions,slc7a5 or slc7a6
+MAR05676,Transport reactions,slc7a5 or slc7a6
+MAR05677,Transport reactions,slc7a6
+MAR05678,Transport reactions,slc7a6
+MAR05679,Transport reactions,slc7a6
+MAR05680,Transport reactions,slc7a6
+MAR05681,Transport reactions,slc7a6
+MAR05682,Transport reactions,slc7a6
+MAR05683,Transport reactions,slc7a6
+MAR05684,Transport reactions,slc7a6
+MAR05685,Transport reactions,slc7a6
+MAR05686,Transport reactions,slc7a6
+MAR05687,Transport reactions,slc7a6
+MAR05688,Transport reactions,slc7a6
+MAR05689,Transport reactions,slc7a6
+MAR05690,Transport reactions,slc7a6
+MAR05691,Transport reactions,slc7a6
+MAR05692,Transport reactions,slc7a6
+MAR05693,Transport reactions,slc7a6
+MAR05694,Transport reactions,slc7a6
+MAR05695,Transport reactions,slc7a6
+MAR05696,Transport reactions,slc7a6
+MAR05697,Transport reactions,slc7a6
+MAR05698,Transport reactions,slc7a6
+MAR05699,Transport reactions,slc7a6
+MAR05700,Transport reactions,slc7a6
+MAR05701,Transport reactions,slc7a6
+MAR05702,Transport reactions,slc7a6
+MAR05703,Transport reactions,slc7a6
+MAR05704,Transport reactions,slc7a6
+MAR05705,Transport reactions,slc7a6
+MAR05706,Transport reactions,slc7a6
+MAR05707,Transport reactions,slc7a6
+MAR05708,Transport reactions,slc1a4 or slc1a5 or slc7a6
+MAR05709,Transport reactions,slc1a4 or slc1a5 or slc7a6
+MAR05710,Transport reactions,slc1a4 or slc1a5 or slc7a6
+MAR05711,Transport reactions,slc7a6
+MAR05712,Transport reactions,slc7a6
+MAR05713,Transport reactions,slc7a6
+MAR05714,Transport reactions,slc7a6
+MAR05715,Transport reactions,slc7a6
+MAR05716,Transport reactions,slc7a6
+MAR05717,Transport reactions,slc1a4 or slc1a5 or slc7a6
+MAR05718,Transport reactions,slc7a6
+MAR05719,Transport reactions,slc1a4 or slc1a5 or slc7a11 or slc7a6
+MAR05720,Transport reactions,slc7a6
+MAR05721,Transport reactions,slc7a6
+MAR05722,Transport reactions,slc7a6
+MAR05723,Transport reactions,slc7a6
+MAR05724,Transport reactions,slc7a6
+MAR05725,Transport reactions,slc7a6
+MAR05726,Transport reactions,slc7a6
+MAR05727,Transport reactions,slc7a6
+MAR05728,Transport reactions,slc7a6
+MAR05729,Transport reactions,slc7a6
+MAR05730,Transport reactions,slc7a6
+MAR05731,Transport reactions,slc7a6
+MAR05732,Transport reactions,slc7a6
+MAR05733,Transport reactions,slc7a6
+MAR05734,Transport reactions,slc7a6
+MAR05735,Transport reactions,slc7a6
+MAR05736,Transport reactions,slc7a6
+MAR05737,Transport reactions,slc7a6
+MAR05738,Transport reactions,slc7a6
+MAR05739,Transport reactions,slc7a6
+MAR05740,Transport reactions,slc7a6
+MAR05741,Transport reactions,slc7a6
+MAR05742,Transport reactions,slc7a6
+MAR05743,Transport reactions,slc7a6
+MAR05744,Transport reactions,slc7a6
+MAR05745,Transport reactions,slc7a6
+MAR05746,Transport reactions,slc7a6
+MAR05747,Transport reactions,slc7a6
+MAR05748,Transport reactions,slc7a6
+MAR05749,Transport reactions,slc7a6
+MAR05750,Transport reactions,slc7a6
+MAR05751,Transport reactions,slc7a6
+MAR05752,Transport reactions,slc7a6
+MAR05753,Transport reactions,slc1a5 or slc7a6
+MAR05754,Transport reactions,slc1a5 or slc7a6
+MAR05755,Transport reactions,slc1a5 or slc7a6
+MAR05756,Transport reactions,slc7a6
+MAR05757,Transport reactions,slc7a6
+MAR05758,Transport reactions,slc7a6
+MAR05759,Transport reactions,slc7a6
+MAR05760,Transport reactions,slc1a5 or slc7a6
+MAR05761,Transport reactions,slc7a6
+MAR05762,Transport reactions,slc7a6
+MAR05763,Transport reactions,slc7a6
+MAR05764,Transport reactions,slc1a5 or slc7a6
+MAR05765,Transport reactions,slc7a6
+MAR05766,Transport reactions,slc7a6
+MAR05767,Transport reactions,slc7a6
+MAR05768,Transport reactions,slc7a6
+MAR05769,Transport reactions,slc7a6
+MAR05770,Transport reactions,slc7a6
+MAR05771,Transport reactions,slc7a6
+MAR05772,Transport reactions,slc7a6
+MAR05773,Transport reactions,slc7a6
+MAR05774,Transport reactions,slc7a6
+MAR05775,Transport reactions,slc7a6
+MAR05776,Transport reactions,slc7a6
+MAR05777,Transport reactions,slc7a6
+MAR05778,Transport reactions,slc7a6
+MAR05779,Transport reactions,slc7a6
+MAR05780,Transport reactions,slc7a6
+MAR05781,Transport reactions,slc7a6
+MAR05782,Transport reactions,slc7a6
+MAR05783,Transport reactions,slc1a4 or slc1a5 or slc7a6
+MAR05784,Transport reactions,slc1a5 or slc7a6
+MAR05785,Transport reactions,slc1a4 or slc1a5 or slc7a6
+MAR05786,Transport reactions,slc7a6
+MAR05787,Transport reactions,slc7a6
+MAR05788,Transport reactions,slc7a6
+MAR05789,Transport reactions,slc7a6
+MAR05790,Transport reactions,slc1a4 or slc1a5 or slc7a6
+MAR05791,Transport reactions,slc7a6
+MAR05792,Transport reactions,slc7a6
+MAR05793,Transport reactions,slc1a5 or slc7a6
+MAR05794,Transport reactions,slc7a6
+MAR05795,Transport reactions,slc7a6
+MAR05796,Transport reactions,slc7a6
+MAR05797,Transport reactions,slc7a6
+MAR05798,Transport reactions,slc7a6
+MAR05799,Transport reactions,slc7a6
+MAR05800,Transport reactions,slc7a6
+MAR05801,Transport reactions,slc7a6
+MAR05802,Transport reactions,slc7a6
+MAR05803,Transport reactions,slc7a6
+MAR05804,Transport reactions,slc7a6
+MAR05805,Transport reactions,slc7a6
+MAR05806,Transport reactions,slc7a6
+MAR05807,Transport reactions,slc7a6
+MAR05808,Transport reactions,slc7a6
+MAR05809,Transport reactions,slc7a6
+MAR05810,Transport reactions,slc7a6
+MAR05811,Transport reactions,slc7a6
+MAR05812,Transport reactions,slc7a6
+MAR05813,Transport reactions,slc7a6
+MAR05814,Transport reactions,slc7a6
+MAR05815,Transport reactions,slc7a6
+MAR05816,Transport reactions,slc7a6
+MAR05817,Transport reactions,slc7a6
+MAR05818,Transport reactions,slc7a6
+MAR05819,Transport reactions,slc7a6
+MAR05820,Transport reactions,slc7a6
+MAR05821,Transport reactions,slc7a6
+MAR05822,Transport reactions,slc7a6
+MAR05823,Transport reactions,slc7a6
+MAR05824,Transport reactions,slc7a6
+MAR05825,Transport reactions,slc7a6
+MAR05826,Transport reactions,slc7a6
+MAR05827,Transport reactions,slc7a6
+MAR05828,Transport reactions,slc7a6
+MAR05829,Transport reactions,slc7a6
+MAR05830,Transport reactions,slc7a6
+MAR05831,Transport reactions,slc7a6
+MAR05832,Transport reactions,slc7a6
+MAR05833,Transport reactions,slc7a6
+MAR05834,Transport reactions,slc7a6
+MAR05835,Transport reactions,slc7a6
+MAR05836,Transport reactions,slc7a6
+MAR05837,Transport reactions,slc7a6
+MAR05838,Transport reactions,slc7a6
+MAR05839,Transport reactions,slc7a6
+MAR05840,Transport reactions,slc7a6
+MAR05841,Transport reactions,slc7a6
+MAR05842,Transport reactions,slc3a1 or slc7a6 or slc7a7
+MAR05843,Transport reactions,slc7a6
+MAR05844,Transport reactions,slc7a6
+MAR05845,Transport reactions,slc7a6
+MAR05846,Transport reactions,slc7a6
+MAR05847,Transport reactions,slc7a6
+MAR05848,Transport reactions,slc7a6
+MAR05849,Transport reactions,slc7a6
+MAR05850,Transport reactions,slc7a6
+MAR05851,Transport reactions,slc7a6
+MAR05852,Transport reactions,slc7a6
+MAR05853,Transport reactions,slc7a6
+MAR05854,Transport reactions,slc7a6
+MAR05855,Transport reactions,slc7a6
+MAR05856,Transport reactions,slc7a6
+MAR05857,Transport reactions,slc7a6
+MAR05858,Transport reactions,slc7a6
+MAR05859,Transport reactions,slc7a6
+MAR05860,Transport reactions,slc7a6
+MAR05861,Transport reactions,slc7a6
+MAR05862,Transport reactions,slc7a6
+MAR05863,Transport reactions,slc7a6
+MAR05864,Transport reactions,slc7a6
+MAR05865,Transport reactions,slc7a6
+MAR05866,Transport reactions,slc7a6
+MAR05867,Transport reactions,slc7a6
+MAR05868,Transport reactions,slc7a6
+MAR05869,Transport reactions,slc7a6
+MAR05870,Transport reactions,slc7a6
+MAR05871,Transport reactions,slc7a6
+MAR05872,Transport reactions,slc7a6
+MAR05873,Transport reactions,slc3a2a or slc7a6 or slc7a7
+MAR05874,Transport reactions,slc7a6
+MAR05875,Transport reactions,slc7a6
+MAR05876,Transport reactions,slc7a6
+MAR05877,Transport reactions,slc7a6
+MAR05878,Transport reactions,slc7a6
+MAR05879,Transport reactions,slc7a6
+MAR05880,Transport reactions,slc7a6
+MAR05881,Transport reactions,slc7a6
+MAR05882,Transport reactions,slc7a6
+MAR05883,Transport reactions,slc7a6
+MAR05884,Transport reactions,slc7a6
+MAR05885,Transport reactions,slc7a6
+MAR05886,Transport reactions,slc7a6
+MAR05887,Transport reactions,slc7a6
+MAR05888,Transport reactions,slc7a6
+MAR05889,Transport reactions,slc7a6
+MAR05890,Transport reactions,slc7a6
+MAR05891,Transport reactions,slc7a6
+MAR05892,Transport reactions,slc7a6
+MAR05893,Transport reactions,slc7a6
+MAR05894,Transport reactions,slc7a6
+MAR05895,Transport reactions,slc7a6
+MAR05896,Transport reactions,slc7a6
+MAR05897,Transport reactions,slc7a6
+MAR05898,Transport reactions,slc7a6
+MAR05899,Transport reactions,slc7a6
+MAR05900,Transport reactions,slc7a6
+MAR05901,Transport reactions,slc7a6
+MAR05902,Transport reactions,slc7a6
+MAR05903,Transport reactions,slc7a6
+MAR05904,Transport reactions,slc7a6
+MAR05905,Transport reactions,slc7a6
+MAR05906,Transport reactions,slc7a6
+MAR05907,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05908,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05909,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05910,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05911,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05912,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05913,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05914,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05915,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05916,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05917,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05918,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05919,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05920,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05921,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05922,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05923,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05924,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05925,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05926,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05927,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05928,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05929,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05930,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05931,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05932,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05933,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05934,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05935,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05936,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05937,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05938,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05939,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05940,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05941,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05942,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05943,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05944,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05945,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05946,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05947,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05948,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05949,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05950,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05951,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05952,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05953,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05954,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05955,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05956,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05957,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05958,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05959,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05960,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05961,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05962,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05963,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05964,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05965,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05966,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05967,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05968,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05969,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05970,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05971,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05972,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05973,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05974,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05975,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05976,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05977,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05978,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05979,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05980,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05981,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05982,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05983,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05984,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05985,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05986,Transport reactions,slc3a1 and slc7a6 and slc7a9
+MAR05987,Transport reactions,slc11a2 or slc40a1
+MAR05989,Transport reactions,slc11a2 or slc39a1 or slc39a10 or slc39a14 or slc39a3 or slc39a4 or slc39a5 or slc39a6 or slc39a8 or slc7a6
+MAR05990,Transport reactions,slc12a4 or slc12a5a or slc12a5b or slc12a6 or slc12a7b
+MAR05992,Transport reactions,slc13a3
+MAR05998,Transport reactions,slc16a1a or slc16a1b or slc16a3a or slc16a3b or slc16a4 or slc16a5a or slc16a5b or slc16a6b or slc16a8 or zgc:165507
+MAR06000,Transport reactions,slc16a1a or slc16a1b or slc16a3a or slc16a3b or slc16a4 or slc16a5a or slc16a5b or slc16a6b or slc16a8 or zgc:165507
+MAR06001,Transport reactions,slc16a1a or slc16a1b or slc16a3a or slc16a3b or slc16a4 or slc16a5a or slc16a5b or slc16a6b or slc16a8 or zgc:165507
+MAR06002,Transport reactions,slc16a1a or slc16a1b or slc16a3a or slc16a3b or slc16a4 or slc16a5a or slc16a5b or slc16a6b or slc16a8 or zgc:165507
+MAR06003,Transport reactions,slc16a1a or slc16a1b or slc16a3a or slc16a3b or slc16a4 or slc16a5a or slc16a5b or slc16a6b or slc16a8 or zgc:165507
+MAR06004,Transport reactions,slc16a1a or slc16a1b or slc16a3a or slc16a3b or slc16a4 or slc16a5a or slc16a5b or slc16a6b or slc16a8 or zgc:165507
+MAR06005,Transport reactions,slc16a1a or slc16a1b or slc16a3a or slc16a3b or slc16a4 or slc16a5a or slc16a5b or slc16a6b or slc16a8 or zgc:165507
+MAR06006,Transport reactions,slc16a1a or slc16a1b or slc16a3a or slc16a3b or slc16a4 or slc16a5a or slc16a5b or slc16a6b or slc16a8 or zgc:165507
+MAR06007,Transport reactions,slc16a1a or slc16a1b or slc16a3a or slc16a3b or slc16a4 or slc16a5a or slc16a5b or slc16a6b or slc16a8 or zgc:165507
+MAR06008,Transport reactions,slc16a1a or slc16a1b or slc16a3a or slc16a3b or slc16a4 or slc16a5a or slc16a5b or slc16a6b or slc16a8 or zgc:165507
+MAR06009,Transport reactions,slc16a1a or slc16a1b or slc16a3a or slc16a3b or slc16a4 or slc16a5a or slc16a5b or slc16a6b or slc16a8 or zgc:165507
+MAR06010,Transport reactions,slc16a1a or slc16a1b or slc16a3a or slc16a3b or slc16a4 or slc16a5a or slc16a5b or slc16a6b or slc16a8 or zgc:165507
+MAR06011,Transport reactions,slc16a1a or slc16a1b or slc16a3a or slc16a3b or slc16a4 or slc16a5a or slc16a5b or slc16a6b or slc16a8 or zgc:165507
+MAR06012,Transport reactions,slc16a1a or slc16a1b or slc16a3a or slc16a3b or slc16a4 or slc16a5a or slc16a5b or slc16a6b or slc16a8 or zgc:165507
+MAR06013,Transport reactions,slc16a1a or slc16a1b or slc16a3a or slc16a3b or slc16a4 or slc16a5a or slc16a5b or slc16a6b or slc16a8 or zgc:165507
+MAR06014,Transport reactions,slc16a1a or slc16a1b or slc16a3a or slc16a3b or slc16a4 or slc16a5a or slc16a5b or slc16a6b or slc16a8 or zgc:165507
+MAR06015,Transport reactions,slc16a1a or slc16a1b or slc16a3a or slc16a3b or slc16a4 or slc16a5a or slc16a5b or slc16a6b or slc16a8 or zgc:165507
+MAR06016,Transport reactions,slc16a1a or slc16a1b or slc16a3a or slc16a3b or slc16a4 or slc16a5a or slc16a5b or slc16a6b or slc16a8 or zgc:165507
+MAR06017,Transport reactions,slc16a1a or slc16a1b or slc16a3a or slc16a3b or slc16a4 or slc16a5a or slc16a5b or slc16a6b or slc16a8 or zgc:165507
+MAR06018,Transport reactions,slc16a1a or slc16a1b or slc16a3a or slc16a3b or slc16a4 or slc16a5a or slc16a5b or slc16a6b or slc16a8 or zgc:165507
+MAR06019,Transport reactions,slc16a1a or slc16a1b or slc16a3a or slc16a3b or slc16a4 or slc16a5a or slc16a5b or slc16a6b or slc16a8 or zgc:165507
+MAR06020,Transport reactions,slc16a1a or slc16a1b or slc16a3a or slc16a3b or slc16a4 or slc16a5a or slc16a5b or slc16a6b or slc16a8 or zgc:165507
+MAR06021,Transport reactions,slc16a1a or slc16a1b or slc16a3a or slc16a3b or slc16a4 or slc16a5a or slc16a5b or slc16a6b or slc16a8 or zgc:165507
+MAR06022,Transport reactions,slc16a1a or slc16a1b or slc16a3a or slc16a3b or slc16a4 or slc16a5a or slc16a5b or slc16a6b or slc16a8 or zgc:165507
+MAR06023,Transport reactions,slc16a1a or slc16a1b or slc16a3a or slc16a3b or slc16a4 or slc16a5a or slc16a5b or slc16a6b or slc16a8 or zgc:165507
+MAR06024,Transport reactions,slc16a1a or slc16a1b or slc16a3a or slc16a3b or slc16a4 or slc16a5a or slc16a5b or slc16a6b or slc16a8 or zgc:165507
+MAR06025,Transport reactions,slc16a1a or slc16a1b or slc16a3a or slc16a3b or slc16a4 or slc16a5a or slc16a5b or slc16a6b or slc16a8 or zgc:165507
+MAR06026,Transport reactions,slc16a1a or slc16a1b or slc16a3a or slc16a3b or slc16a4 or slc16a5a or slc16a5b or slc16a6b or slc16a8 or zgc:165507
+MAR06027,Transport reactions,slc16a1a or slc16a1b or slc16a3a or slc16a3b or slc16a4 or slc16a5a or slc16a5b or slc16a6b or slc16a8 or zgc:165507
+MAR06028,Transport reactions,slc16a1a or slc16a1b or slc16a3a or slc16a3b or slc16a4 or slc16a5a or slc16a5b or slc16a6b or slc16a8 or zgc:165507
+MAR06029,Transport reactions,slc16a1a or slc16a1b or slc16a3a or slc16a3b or slc16a4 or slc16a5a or slc16a5b or slc16a6b or slc16a8 or zgc:165507
+MAR06030,Transport reactions,slc16a1a or slc16a1b or slc16a3a or slc16a3b or slc16a4 or slc16a5a or slc16a5b or slc16a6b or slc16a8 or zgc:165507
+MAR06031,Transport reactions,slc16a1a or slc16a1b or slc16a3a or slc16a3b or slc16a4 or slc16a5a or slc16a5b or slc16a6b or slc16a8 or zgc:165507
+MAR06032,Transport reactions,slc16a1a or slc16a1b or slc16a3a or slc16a3b or slc16a4 or slc16a5a or slc16a5b or slc16a6b or slc16a8 or zgc:165507
+MAR06033,Transport reactions,slc16a1a or slc16a1b or slc16a3a or slc16a3b or slc16a4 or slc16a5a or slc16a5b or slc16a6b or slc16a8 or zgc:165507
+MAR06034,Transport reactions,slc16a1a or slc16a1b or slc16a3a or slc16a3b or slc16a4 or slc16a5a or slc16a5b or slc16a6b or slc16a8 or zgc:165507
+MAR06035,Transport reactions,slc16a1a or slc16a1b or slc16a3a or slc16a3b or slc16a4 or slc16a5a or slc16a5b or slc16a6b or slc16a8 or zgc:165507
+MAR06036,Transport reactions,slc16a1a or slc16a1b or slc16a3a or slc16a3b or slc16a4 or slc16a5a or slc16a5b or slc16a6b or slc16a8 or zgc:165507
+MAR06037,Transport reactions,slc16a1a or slc16a1b or slc16a3a or slc16a3b or slc16a4 or slc16a5a or slc16a5b or slc16a6b or slc16a8 or zgc:165507
+MAR06038,Transport reactions,slc16a1a or slc16a1b or slc16a3a or slc16a3b or slc16a4 or slc16a5a or slc16a5b or slc16a6b or slc16a8 or zgc:165507
+MAR06039,Transport reactions,slc16a1a or slc16a1b or slc16a3a or slc16a3b or slc16a4 or slc16a5a or slc16a5b or slc16a6b or slc16a8 or zgc:165507
+MAR06040,Transport reactions,slc16a1a or slc16a1b or slc16a3a or slc16a3b or slc16a4 or slc16a5a or slc16a5b or slc16a6b or slc16a8 or zgc:165507
+MAR06041,Transport reactions,slc16a1a or slc16a1b or slc16a3a or slc16a3b or slc16a4 or slc16a5a or slc16a5b or slc16a6b or slc16a8 or zgc:165507
+MAR06042,Transport reactions,slc16a1a or slc16a1b or slc16a3a or slc16a3b or slc16a4 or slc16a5a or slc16a5b or slc16a6b or slc16a8 or zgc:165507
+MAR06043,Transport reactions,slc16a1a or slc16a1b or slc16a3a or slc16a3b or slc16a4 or slc16a5a or slc16a5b or slc16a6b or slc16a8 or zgc:165507
+MAR06044,Transport reactions,slc16a1a or slc16a1b or slc16a3a or slc16a3b or slc16a4 or slc16a5a or slc16a5b or slc16a6b or slc16a8 or zgc:165507
+MAR06045,Transport reactions,slc16a1a or slc16a1b or slc16a3a or slc16a3b or slc16a4 or slc16a5a or slc16a5b or slc16a6b or slc16a8 or zgc:165507
+MAR06046,Transport reactions,slc16a1a or slc16a1b or slc16a3a or slc16a3b or slc16a4 or slc16a5a or slc16a5b or slc16a6b or slc16a8 or zgc:165507
+MAR06047,Transport reactions,slc16a1a or slc16a1b or slc16a3a or slc16a3b or slc16a4 or slc16a5a or slc16a5b or slc16a6b or slc16a8 or zgc:165507
+MAR06048,Transport reactions,slc16a1a or slc16a1b or slc16a3a or slc16a3b or slc16a4 or slc16a5a or slc16a5b or slc16a6b or slc16a8 or zgc:165507
+MAR06049,Transport reactions,slc16a1a or slc16a1b or slc16a3a or slc16a3b or slc16a4 or slc16a5a or slc16a5b or slc16a6b or slc16a8 or zgc:165507
+MAR06050,Transport reactions,slc16a1a or slc16a1b or slc16a3a or slc16a3b or slc16a4 or slc16a5a or slc16a5b or slc16a6b or slc16a8 or zgc:165507
+MAR06051,Transport reactions,slc16a1a or slc16a1b or slc16a3a or slc16a3b or slc16a4 or slc16a5a or slc16a5b or slc16a6b or slc16a8 or zgc:165507
+MAR06052,Transport reactions,slc16a1a or slc16a1b or slc16a3a or slc16a3b or slc16a4 or slc16a5a or slc16a5b or slc16a6b or slc16a8 or zgc:165507
+MAR06053,Transport reactions,slc16a1a or slc16a1b or slc16a3a or slc16a3b or slc16a4 or slc16a5a or slc16a5b or slc16a6b or slc16a8 or zgc:165507
+MAR06054,Transport reactions,slc16a1a or slc16a1b or slc16a3a or slc16a3b or slc16a4 or slc16a5a or slc16a5b or slc16a6b or slc16a8 or zgc:165507
+MAR06055,Transport reactions,slc16a2 or slco1c1 or slco1d1 or slco1e1 or slco3a1a or slco4a1
+MAR06056,Transport reactions,slc16a2
+MAR06057,Transport reactions,si:ch1073-513e17.1
+MAR06059,Transport reactions,slc19a2 or slc19a3a
+MAR06060,Transport reactions,slco1d1 or slco1e1
+MAR06061,Transport reactions,slco1d1 or slco1e1
+MAR06062,Transport reactions,slco1d1 or slco1e1
+MAR06063,Transport reactions,slco1d1 or slco1e1
+MAR06064,Transport reactions,slco1d1 or slco1e1
+MAR06065,Transport reactions,slco1d1 or slco1e1
+MAR06066,Transport reactions,slco1d1 or slco1e1
+MAR06067,Transport reactions,slco1d1 or slco1e1
+MAR06068,Transport reactions,slco1d1 or slco1e1
+MAR06069,Transport reactions,slco1d1 or slco1e1
+MAR06070,Transport reactions,slco1d1 or slco1e1
+MAR06071,Transport reactions,slco1d1 or slco1e1
+MAR06072,Transport reactions,slco1d1 or slco1e1
+MAR06073,Transport reactions,slco1d1 or slco1e1
+MAR06074,Transport reactions,slco1d1 or slco1e1
+MAR06075,Transport reactions,slco1d1 or slco1e1
+MAR06076,Transport reactions,slco1d1 or slco1e1
+MAR06077,Transport reactions,slco1d1 or slco1e1
+MAR06078,Transport reactions,slco1d1 or slco1e1
+MAR06079,Transport reactions,slco1d1 or slco1e1
+MAR06080,Transport reactions,slco1d1 or slco1e1
+MAR06081,Transport reactions,slco1d1 or slco1e1
+MAR06082,Transport reactions,slco1d1 or slco1e1
+MAR06083,Transport reactions,slco1d1 or slco1e1
+MAR06084,Transport reactions,slco1d1 or slco1e1
+MAR06085,Transport reactions,slco1d1 or slco1e1
+MAR06086,Transport reactions,slco1d1 or slco1e1
+MAR06087,Transport reactions,slco1d1 or slco1e1
+MAR06088,Transport reactions,slco1d1 or slco1e1
+MAR06089,Transport reactions,slco1d1 or slco1e1
+MAR06090,Transport reactions,slco1d1 or slco1e1
+MAR06091,Transport reactions,slco1d1 or slco1e1
+MAR06092,Transport reactions,slco1d1 or slco1e1
+MAR06093,Transport reactions,slco1d1 or slco1e1
+MAR06094,Transport reactions,slco1d1 or slco1e1
+MAR06095,Transport reactions,slco1d1 or slco1e1
+MAR06096,Transport reactions,slco1c1 or slco1d1 or slco1e1 or slco4a1
+MAR06097,Transport reactions,slco1d1 or slco1e1
+MAR06098,Transport reactions,slco1c1 or slco1d1 or slco1e1 or slco4a1
+MAR06099,Transport reactions,slco1d1 or slco1e1
+MAR06100,Transport reactions,slco1d1 or slco1e1
+MAR06101,Transport reactions,slco2a1 or slco3a1a or slco4a1
+MAR06102,Transport reactions,slco1d1 or slco1e1
+MAR06103,Transport reactions,slco1d1 or slco1e1
+MAR06104,Transport reactions,slco1d1 or slco1e1
+MAR06105,Transport reactions,slco1d1 or slco1e1
+MAR06106,Transport reactions,slco1d1 or slco1e1
+MAR06107,Transport reactions,slco1d1 or slco1e1
+MAR06108,Transport reactions,slco1d1 or slco1e1
+MAR06109,Transport reactions,slco1d1 or slco1e1
+MAR06110,Transport reactions,slco1d1 or slco1e1
+MAR06111,Transport reactions,slco1d1 or slco1e1
+MAR06112,Transport reactions,slco1d1 or slco1e1
+MAR06113,Transport reactions,slco1d1 or slco1e1
+MAR06114,Transport reactions,slco1d1 or slco1e1
+MAR06115,Transport reactions,slco1d1 or slco1e1
+MAR06116,Transport reactions,slco1d1 or slco1e1
+MAR06117,Transport reactions,slco1d1 or slco1e1
+MAR06118,Transport reactions,slco1d1 or slco1e1
+MAR06119,Transport reactions,slco1d1 or slco1e1
+MAR06120,Transport reactions,slco1d1 or slco1e1
+MAR06121,Transport reactions,slco1d1 or slco1e1
+MAR06122,Transport reactions,slco1d1 or slco1e1
+MAR06123,Transport reactions,slco1d1 or slco1e1
+MAR06124,Transport reactions,slco1d1 or slco1e1
+MAR06125,Transport reactions,slco1d1 or slco1e1
+MAR06126,Transport reactions,slco1d1 or slco1e1
+MAR06127,Transport reactions,slco1d1 or slco1e1
+MAR06128,Transport reactions,slco1d1 or slco1e1
+MAR06129,Transport reactions,slco1c1 or slco1d1 or slco1e1 or slco2b1 or slco3a1a or slco4a1
+MAR06130,Transport reactions,slco1d1 or slco1e1
+MAR06131,Transport reactions,slco1d1 or slco1e1
+MAR06132,Transport reactions,slco1d1 or slco1e1
+MAR06133,Transport reactions,slco1d1 or slco1e1
+MAR06134,Transport reactions,slco1d1 or slco1e1
+MAR06135,Transport reactions,slco1d1 or slco1e1
+MAR06136,Transport reactions,slco1d1 or slco1e1
+MAR06137,Transport reactions,slco1d1 or slco1e1
+MAR06138,Transport reactions,slco1d1 or slco1e1
+MAR06139,Transport reactions,slco1d1 or slco1e1
+MAR06140,Transport reactions,slco1d1 or slco1e1
+MAR06141,Transport reactions,slco1d1 or slco1e1
+MAR06145,Transport reactions,slco1d1 or slco1e1
+MAR06146,Transport reactions,slco1d1 or slco1e1
+MAR06147,Transport reactions,slco1d1 or slco1e1
+MAR06148,Transport reactions,slco1d1 or slco1e1
+MAR06149,Transport reactions,slco1d1 or slco1e1
+MAR06150,Transport reactions,slco1d1 or slco1e1
+MAR06151,Transport reactions,slco1d1 or slco1e1
+MAR06152,Transport reactions,slco1d1 or slco1e1
+MAR06153,Transport reactions,slco1d1 or slco1e1
+MAR06154,Transport reactions,slco1d1 or slco1e1
+MAR06155,Transport reactions,slco1d1 or slco1e1
+MAR06156,Transport reactions,slco1d1 or slco1e1
+MAR06157,Transport reactions,slco1d1 or slco1e1
+MAR06158,Transport reactions,slco1d1 or slco1e1
+MAR06159,Transport reactions,slco1d1 or slco1e1
+MAR06160,Transport reactions,slco1d1 or slco1e1
+MAR06161,Transport reactions,slco1d1 or slco1e1
+MAR06162,Transport reactions,slco1d1 or slco1e1
+MAR06163,Transport reactions,slco1d1 or slco1e1
+MAR06164,Transport reactions,slco1d1 or slco1e1
+MAR06165,Transport reactions,slco1d1 or slco1e1
+MAR06166,Transport reactions,slco1d1 or slco1e1
+MAR06167,Transport reactions,slco1d1 or slco1e1
+MAR06168,Transport reactions,slco1d1 or slco1e1
+MAR06169,Transport reactions,slco1d1 or slco1e1
+MAR06170,Transport reactions,slco1d1 or slco1e1
+MAR06171,Transport reactions,slco1d1 or slco1e1
+MAR06172,Transport reactions,slco1d1 or slco1e1
+MAR06173,Transport reactions,slco1d1 or slco1e1
+MAR06174,Transport reactions,slco1d1 or slco1e1
+MAR06175,Transport reactions,slco1d1 or slco1e1
+MAR06176,Transport reactions,slco1d1 or slco1e1
+MAR06177,Transport reactions,slco1d1 or slco1e1
+MAR06178,Transport reactions,slco1d1 or slco1e1
+MAR06179,Transport reactions,slco1d1 or slco1e1
+MAR06180,Transport reactions,slco1d1 or slco1e1
+MAR06181,Transport reactions,slco1d1 or slco1e1
+MAR06182,Transport reactions,slco1d1 or slco1e1
+MAR06183,Transport reactions,slco1d1 or slco1e1
+MAR06184,Transport reactions,slco1d1 or slco1e1
+MAR06185,Transport reactions,slco1d1 or slco1e1
+MAR06186,Transport reactions,slco1d1 or slco1e1
+MAR06187,Transport reactions,slco1d1 or slco1e1
+MAR06188,Transport reactions,slco1d1 or slco1e1
+MAR06189,Transport reactions,slco1d1 or slco1e1
+MAR06190,Transport reactions,slco1d1 or slco1e1
+MAR06191,Transport reactions,slco1d1 or slco1e1
+MAR06192,Transport reactions,slco1d1 or slco1e1
+MAR06193,Transport reactions,slco1d1 or slco1e1
+MAR06194,Transport reactions,slco1d1 or slco1e1
+MAR06195,Transport reactions,slco1d1 or slco1e1
+MAR06196,Transport reactions,slco1d1 or slco1e1
+MAR06197,Transport reactions,slco1d1 or slco1e1
+MAR06198,Transport reactions,slco1d1 or slco1e1
+MAR06199,Transport reactions,slco1d1 or slco1e1
+MAR06200,Transport reactions,slco1d1 or slco1e1
+MAR06201,Transport reactions,slco1d1 or slco1e1
+MAR06202,Transport reactions,slco1d1 or slco1e1
+MAR06203,Transport reactions,slco1d1 or slco1e1
+MAR06204,Transport reactions,slco1d1 or slco1e1
+MAR06205,Transport reactions,slco1d1 or slco1e1
+MAR06206,Transport reactions,slco1d1 or slco1e1
+MAR06207,Transport reactions,slco1d1 or slco1e1
+MAR06208,Transport reactions,slco1d1 or slco1e1
+MAR06209,Transport reactions,slco1d1 or slco1e1
+MAR06210,Transport reactions,slco1d1 or slco1e1
+MAR06211,Transport reactions,slco1d1 or slco1e1
+MAR06212,Transport reactions,slco1d1 or slco1e1
+MAR06213,Transport reactions,slco1d1 or slco1e1
+MAR06214,Transport reactions,slco1d1 or slco1e1
+MAR06215,Transport reactions,slco1d1 or slco1e1
+MAR06216,Transport reactions,slco1d1 or slco1e1
+MAR06217,Transport reactions,slco1d1 or slco1e1
+MAR06218,Transport reactions,slco2a1
+MAR06219,Transport reactions,slco2a1
+MAR06221,Transport reactions,slco2a1
+MAR06222,Transport reactions,slco2a1
+MAR06223,Transport reactions,slco2a1
+MAR06224,Transport reactions,slco2a1
+MAR06225,Transport reactions,slco2a1
+MAR06226,Transport reactions,slco2a1
+MAR06227,Transport reactions,slco2a1
+MAR06228,Transport reactions,slco2a1
+MAR06229,Transport reactions,slco2a1
+MAR06230,Transport reactions,slco2a1
+MAR06231,Transport reactions,slco2a1
+MAR06232,Transport reactions,slco2a1
+MAR06233,Transport reactions,slco2a1
+MAR06234,Transport reactions,slco2a1
+MAR06235,Transport reactions,slco2a1
+MAR06236,Transport reactions,slco2a1
+MAR06237,Transport reactions,slco2a1
+MAR06238,Transport reactions,slco2a1
+MAR06239,Transport reactions,slco2a1
+MAR06240,Transport reactions,slco2a1
+MAR06241,Transport reactions,slc22a2 or slc22a3 or slc29a4a
+MAR06242,Transport reactions,slc6a2 or slc6a3
+MAR06243,Transport reactions,slc22a2 or slc22a3 or slc29a4a
+MAR06244,Transport reactions,slc6a4a
+MAR06245,Transport reactions,slc22a2 or slc22a3
+MAR06246,Transport reactions,slc22a2 or slc22a3 or slco2a1 or slco3a1a
+MAR06247,Transport reactions,slc22a2 or slc22a3 or slco2a1
+MAR06248,Transport reactions,slco2b1
+MAR06249,Transport reactions,abcc12 or slco2b1
+MAR06251,Transport reactions,
+MAR06257,Transport reactions,slco1c1 or slco1d1 or slco1e1 or slco4a1
+MAR06260,Transport reactions,
+MAR06266,Transport reactions,slco2a1
+MAR06268,Transport reactions,slco2a1 or slco3a1a
+MAR06269,Transport reactions,
+MAR06275,Transport reactions,slc23a1 or slc23a2
+MAR06351,Transport reactions,slc28a1
+MAR06352,Transport reactions,slc28a1
+MAR06353,Transport reactions,slc28a1
+MAR06354,Transport reactions,slc28a1
+MAR06366,Transport reactions,slc29a1b or slc29a2
+MAR06367,Transport reactions,slc29a1b or slc29a2
+MAR06368,Transport reactions,slc29a1b or slc29a2
+MAR06369,Transport reactions,slc29a1b or slc29a2
+MAR06370,Transport reactions,slc30a1a
+MAR06371,Transport reactions,slc36a1 or slc36a4
+MAR06372,Transport reactions,slc36a1 or slc36a4
+MAR06373,Transport reactions,slc36a1 or slc36a4
+MAR06374,Transport reactions,slc36a1 or slc36a4
+MAR06375,Transport reactions,slc38a2 or slc38a4 or slc6a15 or slc6a19a.2 or slc6a19b
+MAR06377,Transport reactions,slc1a4 or slc1a5 or slc38a4 or slc6a15 or slc6a19a.2 or slc6a19b
+MAR06379,Transport reactions,slc7a1b or slc7a2 or slc7a3a
+MAR06380,Transport reactions,slc38a3a or slc38a3b or slc38a5a or slc38a5b
+MAR06381,Transport reactions,slc38a2 or slc38a4 or slc38a5a or slc38a5b
+MAR06382,Transport reactions,slc38a2 or slc38a4 or slc38a5a or slc38a5b
+MAR06383,Transport reactions,slc7a1b or slc7a2 or slc7a3a
+MAR06384,Transport reactions,slc38a2 or slc38a5a or slc38a5b
+MAR06524,Transport reactions,slc12a3
+MAR06525,Transport reactions,slc26a3.1 or slc26a3.2 or slc26a4 or slc4a1a or slc4a1b or slc4a2b or slc4a3
+MAR06526,Transport reactions,slc12a1 or slc12a2
+MAR06527,Transport reactions,slc12a4 or slc12a6 or slc12a7b
+MAR06529,Transport reactions,slc26a4
+MAR06530,Transport reactions,si:ch211-117c9.2 or slc26a6
+MAR06531,Transport reactions,si:ch211-117c9.2 or slc26a6
+MAR06532,Transport reactions,si:ch211-117c9.2 or slc26a6 or slc4a10a or slc4a8
+MAR06533,Transport reactions,si:ch211-117c9.2 or slc26a6
+MAR06534,Transport reactions,slc26a2
+MAR06732,Transport reactions,slc22a2 or slc22a3 or slc29a4a
+MAR06733,Transport reactions,slc6a2 or slc6a3
+MAR06989,Transport reactions,slc5a5
+MAR06991,Transport reactions,
+MAR07630,Transport reactions,slc8a1a or slc8a2b or slc8a3
+MAR07631,Transport reactions,slc24a1 or slc24a2 or slc24a3 or slc24a4a or slc24a4b or slc24a5
+MAR07632,Transport reactions,slc24a1 or slc24a2
+MAR07639,Transport reactions,slc1a1 or slc1a2b or slc1a3a or slc1a6 or slc1a7a or slc1a7b
+MAR07643,Transport reactions,(slc7a10a or slc7a10b) and slc3a2a
+MAR07644,Transport reactions,(slc7a10a or slc7a10b) and slc3a2a
+MAR07645,Transport reactions,slc36a1
+MAR07666,Transport reactions,slc16a1a or slc16a1b
+MAR07682,Transport reactions,slc19a1
+MAR07683,Transport reactions,slc19a1
+MAR07684,Transport reactions,slc19a1
+MAR07685,Transport reactions,slc19a1
+MAR07686,Transport reactions,slc19a1
+MAR07699,Transport reactions,slc13a1 or slc13a4
+MAR07700,Transport reactions,slc13a1
+MAR07734,Transport reactions,slc5a7a
+MAR07739,Transport reactions,slc5a8
+MAR07902,Transport reactions,slc26a1 or slc26a2 or slc26a3.1 or slc26a3.2
+MAR07903,Transport reactions,
+MAR07946,Transport reactions,slc10a1 or slc10a2
+MAR07977,Transport reactions,
+MAR08023,Transport reactions,
+MAR08075,Transport reactions,slc16a1a or slc16a1b or slc16a3a or slc16a3b or zgc:165507
+MAR08076,Transport reactions,slc4a4a or slc4a5a or slc4a7
+MAR08077,Transport reactions,slc4a4a or slc4a5a or slc4a7
+MAR08081,Transport reactions,slc16a10
+MAR08090,Transport reactions,
+MAR08354,Transport reactions,slc36a1
+MAR08408,Transport reactions,
+MAR08429,Transport reactions,slc6a8
+MAR08515,Transport reactions,slc5a8
+MAR08551,Transport reactions,slco1d1 or slco1e1
+MAR08618,Transport reactions,
+MAR08629,Transport reactions,
+MAR08631,Transport reactions,slco1d1 or slco1e1
+MAR08632,Transport reactions,slco1d1 or slco1e1
+MAR08635,Transport reactions,slco1d1 or slco1e1
+MAR08659,Transport reactions,slco1d1 or slco1e1
+MAR08660,Transport reactions,slc10a1 or slc10a2
+MAR08670,Transport reactions,si:ch211-117c9.2 or slc26a6
+MAR08671,Transport reactions,slc26a4
+MAR08676,Transport reactions,slc22a21
+MAR08677,Transport reactions,slc22a15 or slc22a16 or slc22a21
+MAR08721,Transport reactions,
+MAR08733,Transport reactions,(slc7a10a or slc7a10b) and slc3a2a
+MAR08734,Transport reactions,(slc7a10a or slc7a10b) and slc3a2a
+MAR08735,Transport reactions,slc38a5a or slc38a5b
+MAR08736,Transport reactions,si:ch211-117c9.2 or slc26a6
+MAR08847,Transport reactions,slco1d1 or slco1e1 or slco2b1
+MAR08853,Transport reactions,slc13a1
+MAR08861,Transport reactions,slc14a2
+MAR08872,Transport reactions,slc5a9
+MAR08876,Transport reactions,slc5a9
+MAR08877,Transport reactions,slc5a1
+MAR08879,Transport reactions,slco1d1 or slco1e1
+MAR08884,Transport reactions,slc5a1
+MAR08889,Transport reactions,si:ch211-132b12.1 or si:ch211-132b12.2 or si:ch211-132b12.3 or si:ch211-132b12.6 or slc6a11a or slc6a22.1 or slc6a22.2 or zgc:158427
+MAR08911,Transport reactions,slc5a3b
+MAR08912,Transport reactions,slc5a11 or slc5a3b
+MAR08917,Transport reactions,slc22a21
+MAR08924,Transport reactions,slc5a5
+MAR08925,Transport reactions,slc9a1b or slc9a2 or slc9a3.1
+MAR08929,Transport reactions,slc36a1
+MAR08932,Transport reactions,slco2a1
+MAR08933,Transport reactions,slco2a1
+MAR08936,Transport reactions,slco2a1
+MAR08937,Transport reactions,
+MAR08943,Transport reactions,slc27a1a or slc27a4 or slc27a6
+MAR09180,Transport reactions,
+MAR09190,Transport reactions,(slc7a10a or slc7a10b) and slc3a2a
+MAR09191,Transport reactions,(slc7a10a or slc7a10b) and slc3a2a
+MAR09195,Transport reactions,slc22a2
+MAR09197,Transport reactions,slc40a1
+MAR09198,Transport reactions,slc2a15a or slc2a15b
+MAR09590,Transport reactions,slc26a1 or slc26a2
+MAR09591,Transport reactions,slc6a14 or slc6a9
+MAR09592,Transport reactions,slc6a14 or slc6a9
+MAR09593,Transport reactions,slc6a14 or slc6a9
+MAR09594,Transport reactions,slc6a14 or slc6a9
+MAR09595,Transport reactions,slc6a14 or slc6a9
+MAR09596,Transport reactions,slc6a14 or slc6a9
+MAR09597,Transport reactions,slc6a14 or slc6a9
+MAR09598,Transport reactions,slc6a14 or slc6a9
+MAR09599,Transport reactions,slc6a14 or slc6a9
+MAR09600,Transport reactions,slc6a14 or slc6a9
+MAR09603,Transport reactions,si:ch211-132b12.1 or si:ch211-132b12.2 or si:ch211-132b12.3 or si:ch211-132b12.6 or slc6a11a or slc6a22.1 or slc6a22.2 or zgc:158427
+MAR09604,Transport reactions,si:ch211-132b12.1 or si:ch211-132b12.2 or si:ch211-132b12.3 or si:ch211-132b12.6 or slc6a11a or slc6a22.1 or slc6a22.2 or zgc:158427
+MAR09605,Transport reactions,slc38a5a or slc38a5b
+MAR09606,Transport reactions,slc38a5a or slc38a5b
+MAR09607,Transport reactions,slc5a6a
+MAR09609,Transport reactions,slc5a6a
+MAR09611,Transport reactions,slc2a13b
+MAR09612,Transport reactions,
+MAR09613,Transport reactions,slc6a11b or slc6a13 or slc6a1a or slc6a1b
+MAR09614,Transport reactions,slc6a3
+MAR09615,Transport reactions,slc6a2 or slc6a3
+MAR09616,Transport reactions,slc6a5 or slc6a9
+MAR09619,Transport reactions,slc47a2.2 or slc47a3 or slc47a4
+MAR09620,Transport reactions,slc5a7a
+MAR09623,Transport reactions,slc22a7a
+MAR09624,Transport reactions,slc22a7a
+MAR09639,Transport reactions,
+MAR09640,Transport reactions,
+MAR09649,Transport reactions,
+MAR09650,Transport reactions,
+MAR09652,Transport reactions,
+MAR09660,Transport reactions,
+MAR09661,Transport reactions,
+MAR09662,Transport reactions,
+MAR09737,Transport reactions,
+MAR08428,Transport reactions,
+MAR08430,Transport reactions,
+MAR08022,Transport reactions,slc25a21
+MAR08070,Transport reactions,
+MAR09015,Transport reactions,slc25a26
+MAR00157,Transport reactions,
+MAR00158,Transport reactions,agpat3 or agpat4 or egfra or elovl2 or elovl5 or elovl6 or esco1 or esco2 or hyal3 or lpcat3 or lpcat4 or lpgat1 or mboat2a or mboat2b or mboat7 or oxsm or pnpla3 or slc33a1
+MAR00175,Transport reactions,
+MAR01602,Transport reactions,
+MAR01915,Transport reactions,
+MAR01925,Transport reactions,
+MAR02590,Transport reactions,slc25a20
+MAR03746,Transport reactions,
+MAR03949,Transport reactions,
+MAR03950,Transport reactions,
+MAR03952,Transport reactions,
+MAR04237,Transport reactions,slc25a21
+MAR04850,Transport reactions,
+MAR04851,Transport reactions,slc25a10b
+MAR04852,Transport reactions,slc25a11
+MAR04854,Transport reactions,slc25a10b
+MAR04855,Transport reactions,slc25a11
+MAR04863,Transport reactions,slc25a10b
+MAR04864,Transport reactions,slc25a10b
+MAR04867,Transport reactions,slc25a10b
+MAR04868,Transport reactions,slc25a10b
+MAR04871,Transport reactions,slc25a10b
+MAR04872,Transport reactions,slc25a10b
+MAR04888,Transport reactions,aqp8a.1
+MAR04898,Transport reactions,
+MAR04914,Transport reactions,slc25a16 or slc25a42
+MAR04922,Transport reactions,
+MAR04926,Transport reactions,(mpc1 and mpc2b) or mpc2b
+MAR04964,Transport reactions,slc25a1b
+MAR04971,Transport reactions,slc25a1b
+MAR04972,Transport reactions,slc25a1b
+MAR04957,Transport reactions,
+MAR04977,Transport reactions,slc16a1a or slc16a1b
+MAR04998,Transport reactions,
+MAR05006,Transport reactions,
+MAR05046,Transport reactions,stard3
+MAR05113,Transport reactions,sfxn1
+MAR05114,Transport reactions,sfxn1 or sfxn3
+MAR05122,Transport reactions,slc25a18 or slc25a22a
+MAR05124,Transport reactions,slc25a38a or slc25a38b
+MAR05225,Transport reactions,
+MAR05292,Transport reactions,slc16a12b or slc16a13 or slc16a9a or slc16a9b
+MAR05304,Transport reactions,
+MAR05361,Transport reactions,
+MAR05411,Transport reactions,slc16a1a or slc16a1b
+MAR05426,Transport reactions,
+MAR06276,Transport reactions,slc25a1b
+MAR06277,Transport reactions,slc25a1b
+MAR06286,Transport reactions,slc25a1b
+MAR06287,Transport reactions,slc25a1b
+MAR06288,Transport reactions,slc25a1b
+MAR06289,Transport reactions,slc25a1b
+MAR06290,Transport reactions,slc25a1b
+MAR06291,Transport reactions,slc25a1b
+MAR06292,Transport reactions,slc25a1b
+MAR06293,Transport reactions,slc25a1b
+MAR06294,Transport reactions,slc25a1b
+MAR06295,Transport reactions,slc25a1b
+MAR06296,Transport reactions,slc25a1b
+MAR06297,Transport reactions,slc25a1b
+MAR06298,Transport reactions,slc25a1b
+MAR06311,Transport reactions,slc25a15a
+MAR06328,Transport reactions,slc25a4 or slc25a5 or slc25a6
+MAR06521,Transport reactions,slc25a10b
+MAR06522,Transport reactions,slc25a10b
+MAR07638,Transport reactions,slc25a14 or slc25a27 or ucp1 or ucp2 or ucp3
+MAR07708,Transport reactions,
+MAR07769,Transport reactions,slc25a26
+MAR07804,Transport reactions,slc25a19
+MAR07806,Transport reactions,slc25a19
+MAR07808,Transport reactions,slc25a19
+MAR07810,Transport reactions,slc25a19
+MAR07812,Transport reactions,slc25a19
+MAR07814,Transport reactions,slc25a19
+MAR07818,Transport reactions,slc25a19
+MAR07820,Transport reactions,slc25a19
+MAR07822,Transport reactions,slc25a19
+MAR07824,Transport reactions,slc25a19
+MAR07827,Transport reactions,slc25a19
+MAR07828,Transport reactions,slc25a19
+MAR07829,Transport reactions,slc25a19
+MAR07830,Transport reactions,slc25a19
+MAR07831,Transport reactions,slc25a19
+MAR07832,Transport reactions,slc25a19
+MAR07835,Transport reactions,slc25a19
+MAR07836,Transport reactions,slc25a19
+MAR07837,Transport reactions,slc25a19
+MAR07838,Transport reactions,slc25a19
+MAR07839,Transport reactions,slc25a19
+MAR07840,Transport reactions,slc25a19
+MAR07841,Transport reactions,slc25a19
+MAR07842,Transport reactions,slc25a19
+MAR07843,Transport reactions,slc25a19
+MAR07844,Transport reactions,slc25a19
+MAR07847,Transport reactions,slc25a19
+MAR07848,Transport reactions,slc25a19
+MAR07849,Transport reactions,slc25a19
+MAR07850,Transport reactions,slc25a19
+MAR07851,Transport reactions,slc25a19
+MAR07852,Transport reactions,slc25a19
+MAR07853,Transport reactions,slc25a19
+MAR07854,Transport reactions,slc25a19
+MAR07897,Transport reactions,
+MAR08475,Transport reactions,slc29a1b or slc29a2
+MAR08741,Transport reactions,slc25a10b
+MAR08742,Transport reactions,slc25a10b
+MAR08745,Transport reactions,
+MAR09675,Transport reactions,
+MAR00713,Transport reactions,hif1ab
+MAR03007,Transport reactions,slc16a1a or slc16a1b
+MAR03026,Transport reactions,slc22a21
+MAR03473,Transport reactions,slc25a17
+MAR04890,Transport reactions,
+MAR04924,Transport reactions,
+MAR04930,Transport reactions,slc16a1a or slc16a1b or slc16a3a or slc16a3b or slc16a4 or slc16a5a or slc16a5b or slc16a6b or slc16a8 or zgc:165507
+MAR04986,Transport reactions,slc6a6a or slc6a6b
+MAR05344,Transport reactions,
+MAR05362,Transport reactions,
+MAR05452,Transport reactions,slc6a6a or slc6a6b
+MAR05453,Transport reactions,
+MAR06986,Transport reactions,
+MAR07777,Transport reactions,
+MAR07779,Transport reactions,
+MAR07797,Transport reactions,
+MAR09179,Transport reactions,
+MAR09680,Transport reactions,
+MAR01090,Transport reactions,
+MAR01095,Transport reactions,
+MAR04916,Transport reactions,
+MAR07795,Transport reactions,
+MAR07855,Transport reactions,
+MAR07856,Transport reactions,
+MAR07857,Transport reactions,
+MAR07860,Transport reactions,
+MAR07877,Transport reactions,
+MAR08024,Transport reactions,
+MAR08361,Transport reactions,
+MAR08363,Transport reactions,
+MAR08476,Transport reactions,slc29a1b or slc29a2
+MAR08909,Transport reactions,
+MAR09674,Transport reactions,
+MAR00769,Transport reactions,
+MAR00796,Transport reactions,
+MAR01917,Transport reactions,hdlbpa or npc1
+MAR02087,Transport reactions,
+MAR02090,Transport reactions,
+MAR04887,Transport reactions,
+MAR04962,Transport reactions,
+MAR07199,Transport reactions,
+MAR07762,Transport reactions,
+MAR08202,Transport reactions,
+MAR08765,Transport reactions,
+MAR03597,Transport reactions,
+MAR04961,Transport reactions,
+MAR05045,Transport reactions,
+MAR05249,Transport reactions,
+MAR00731,Transport reactions,cert1a
+MAR00734,Transport reactions,
+MAR07431,Transport reactions,
+MAR07743,Transport reactions,kpna6 or xpo6 or xpo7
+MAR07793,Transport reactions,
+MAR08146,Transport reactions,cert1a
+MAR08241,Transport reactions,
+MAR08259,Transport reactions,
+MAR09669,Transport reactions,
+MAR09670,Transport reactions,
+MAR09671,Transport reactions,
+MAR07432,Transport reactions,
+MAR00020,Transport reactions,
+MAR00730,Transport reactions,cert1a or csnk1g2a or ppm1la or prkd1 or vapb
+MAR00771,Transport reactions,
+MAR01309,Transport reactions,
+MAR01311,Transport reactions,
+MAR01316,Transport reactions,
+MAR01331,Transport reactions,
+MAR01530,Transport reactions,
+MAR01998,Transport reactions,
+MAR02777,Transport reactions,slc22a21
+MAR04123,Transport reactions,
+MAR04765,Transport reactions,
+MAR04856,Transport reactions,slc37a4a
+MAR04876,Transport reactions,
+MAR04877,Transport reactions,
+MAR04878,Transport reactions,
+MAR04879,Transport reactions,
+MAR04880,Transport reactions,slc35d1a
+MAR04883,Transport reactions,
+MAR04894,Transport reactions,
+MAR04913,Transport reactions,
+MAR04941,Transport reactions,
+MAR04960,Transport reactions,
+MAR05004,Transport reactions,cp
+MAR05027,Transport reactions,slc2a1b
+MAR05342,Transport reactions,si:ch1073-513e17.1 or slc17a7a or slc17a7b
+MAR05347,Transport reactions,
+MAR05354,Transport reactions,
+MAR06386,Transport reactions,slc37a4a
+MAR06387,Transport reactions,
+MAR06388,Transport reactions,
+MAR07772,Transport reactions,
+MAR07776,Transport reactions,
+MAR07778,Transport reactions,
+MAR07780,Transport reactions,
+MAR08347,Transport reactions,
+MAR08350,Transport reactions,
+MAR08351,Transport reactions,
+MAR08855,Transport reactions,
+MAR08859,Transport reactions,
+MAR08886,Transport reactions,
+MAR00038,Transport reactions,
+MAR00045,Transport reactions,
+MAR00050,Transport reactions,slc19a1
+MAR00053,Transport reactions,slc19a1
+MAR00057,Transport reactions,slc33a1
+MAR00060,Transport reactions,slc25a20
+MAR00061,Transport reactions,
+MAR00064,Fatty acid oxidation,slc25a20
+MAR00067,Fatty acid oxidation,aldh3a2a or aldh3a2b
+MAR00076,Fatty acid oxidation,slc25a20
+MAR00077,Transport reactions,
+MAR00078,Transport reactions,
+MAR00079,Transport reactions,slc25a15a or slc25a15b
+MAR00095,Transport reactions,slc19a3a
+MAR00102,Fatty acid oxidation,slc25a20
+MAR00105,Fatty acid oxidation,slc25a20
+MAR00106,Fatty acid oxidation,slc25a20
+MAR00107,Fatty acid oxidation,slc25a20
+MAR00108,Fatty acid oxidation,cpt1a2b or cpt1aa or cpt1ab or cpt1b
+MAR00109,Fatty acid oxidation,cpt2
+MAR00110,Fatty acid oxidation,slc25a20
+MAR00111,Fatty acid oxidation,slc25a20
+MAR00112,Fatty acid oxidation,
+MAR00123,Transport reactions,
+MAR00124,Transport reactions,slc25a15a or slc25a15b
+MAR00125,Transport reactions,slc25a1b
+MAR00126,Transport reactions,si:ch211-117c9.2 or slc26a6
+MAR00128,Fatty acid oxidation,slc25a20
+MAR00137,Transport reactions,slc22a21
+MAR00138,Transport reactions,
+MAR00141,Glycerophospholipid metabolism,dgki or dgkza
+MAR00143,Fatty acid oxidation,slc25a20
+MAR00219,Transport reactions,
+MAR00229,Transport reactions,
+MAR00252,Fatty acid oxidation,slc25a20
+MAR00286,Fatty acid oxidation,
+MAR00315,Fatty acid oxidation,
+MAR00443,Cholesterol metabolism,ebp
+MAR00451,Fatty acid oxidation,slc25a20
+MAR00465,Fatty acid oxidation,slc25a20
+MAR01047,Transport reactions,slc19a1
+MAR01051,Transport reactions,
+MAR01052,Transport reactions,
+MAR01354,Transport reactions,
+MAR01369,Transport reactions,
+MAR01377,Transport reactions,
+MAR01378,Transport reactions,slc5a1
+MAR01435,Transport reactions,
+MAR01452,Fatty acid oxidation,slc25a20
+MAR01461,Transport reactions,
+MAR01462,Transport reactions,
+MAR01485,Transport reactions,aqp9b
+MAR01486,Fatty acid oxidation,slc25a20
+MAR01487,Fatty acid oxidation,slc25a20
+MAR01488,Fatty acid oxidation,cpt1a2b or cpt1aa or cpt1ab or cpt1b
+MAR01489,Fatty acid oxidation,cpt2
+MAR01491,Fatty acid oxidation,slc25a20
+MAR01492,Fatty acid oxidation,slc25a20
+MAR01525,Transport reactions,slc4a10a or slc4a8
+MAR01527,Transport reactions,hcn4 or nalcn or scn12aa or scn1laa or scn1lab or scn4aa or scn5lab or scn8ab or tpcn1 or tpcn2
+MAR01528,Transport reactions,slc9a1b or slc9a2 or slc9a3.1
+MAR01529,Transport reactions,slc24a1 or slc24a2
+MAR01534,Transport reactions,rhag or rhbg
+MAR01561,Transport reactions,
+MAR01578,Cholesterol metabolism,
+MAR01582,Transport reactions,
+MAR01587,Fatty acid oxidation,
+MAR01588,Fatty acid oxidation,slc25a20
+MAR01597,Transport reactions,
+MAR01621,Transport reactions,slc37a4a
+MAR01626,Transport reactions,
+MAR01633,Transport reactions,
+MAR01640,Transport reactions,
+MAR01645,Transport reactions,
+MAR01648,Transport reactions,
+MAR01671,Fatty acid oxidation,slc25a20
+MAR01690,Vitamin A metabolism,rdh12 or rdh14b or rdh8a or rdh8b or sdr16c5b or si:ch211-107o10.3 or si:dkey-23o4.6 or zgc:153441
+MAR01707,Transport reactions,
+MAR01721,Fatty acid oxidation,slc25a20
+MAR01731,Transport reactions,
+MAR01733,Transport reactions,
+MAR01736,Fatty acid oxidation,cpt2
+MAR01755,Fatty acid oxidation,slc25a20
+MAR01757,Fatty acid oxidation,cpt2
+MAR01763,Fatty acid oxidation,slc25a20
+MAR01773,Fatty acid oxidation,cpt2
+MAR01775,Fatty acid oxidation,slc25a20
+MAR01779,Transport reactions,
+MAR01780,Transport reactions,slc19a1
+MAR01782,Transport reactions,slc19a1
+MAR01788,Transport reactions,
+MAR01799,Fatty acid oxidation,slc25a20
+MAR01814,Fatty acid oxidation,slc25a20
+MAR01820,Steroid metabolism,ugt1a7
+MAR01824,Transport reactions,
+MAR01827,Transport reactions,
+MAR02121,Fatty acid oxidation,(cpt1aa or cpt1ab) and cpt2
+MAR02123,Fatty acid oxidation,(cpt1aa or cpt1ab) and cpt2
+MAR02188,Miscellaneous,aldh1a3 or aldh3a2b or aldh3b1
+MAR02189,Miscellaneous,aldh1a3 or aldh3a2b or aldh3b1
+MAR02192,Miscellaneous,aldh1a3 or aldh3a2b or aldh3b1
+MAR02195,Miscellaneous,aldh1a3 or aldh3a2b or aldh3b1
+MAR02196,Miscellaneous,aldh1a3 or aldh3a2b or aldh3b1
+MAR02197,Miscellaneous,aldh1a3 or aldh3a2b or aldh3b1
+MAR02206,Cholesterol metabolism,dhcr24
+MAR02216,Transport reactions,slc25a1b
+MAR02220,Transport reactions,slc25a1b
+MAR02225,Transport reactions,
+MAR02226,Transport reactions,slc7a9
+MAR02278,Transport reactions,
+MAR02280,Transport reactions,
+MAR02303,Transport reactions,slc25a1b
+MAR02331,Transport reactions,
+MAR02337,Cholesterol metabolism,dhcr24
+MAR02339,Cholesterol metabolism,ebp
+MAR02340,Fatty acid oxidation,
+MAR02351,Transport reactions,xpr1a
+MAR02377,Transport reactions,
+MAR02379,Transport reactions,
+MAR02382,Transport reactions,
+MAR02388,Transport reactions,slc6a6a or slc6a6b
+MAR02396,Transport reactions,slco1d1 or slco1e1
+MAR02398,Transport reactions,slco1d1 or slco1e1
+MAR02400,Transport reactions,slco1d1 or slco1e1
+MAR02402,Transport reactions,slco2a1
+MAR02405,Transport reactions,slc25a1b
+MAR02406,Transport reactions,slc25a1b
+MAR02413,Transport reactions,slc25a1b
+MAR02414,Transport reactions,slc25a1b
+MAR02416,Transport reactions,slc25a1b
+MAR02418,Transport reactions,slc25a1b
+MAR02420,Transport reactions,slc25a1b
+MAR02422,Transport reactions,slc25a1b
+MAR02427,Transport reactions,
+MAR02429,Transport reactions,
+MAR02431,Transport reactions,
+MAR02479,Transport reactions,
+MAR02481,Transport reactions,
+MAR02779,Fructose and mannose metabolism,
+MAR02881,Bile acid biosynthesis,hsd3b1 or hsd3b2
+MAR02885,Bile acid biosynthesis,cyp27a1.1 or cyp27a1.2 or cyp27a1.4 or zgc:136333
+MAR02889,Bile acid biosynthesis,
+MAR02891,Bile acid biosynthesis,cyp27a1.1 or cyp27a1.2 or cyp27a1.4 or zgc:136333
+MAR03016,Eicosanoid metabolism,
+MAR03047,Vitamin E metabolism,
+MAR03119,Tryptophan metabolism,
+MAR03167,Purine metabolism,
+MAR03168,Tryptophan metabolism,
+MAR03209,Bile acid biosynthesis,cyp27a1.1 or cyp27a1.2 or cyp27a1.4 or zgc:136333
+MAR03210,Bile acid biosynthesis,
+MAR03214,Bile acid biosynthesis,cyp27a1.1 or cyp27a1.2 or cyp27a1.4 or zgc:136333
+MAR03255,Tryptophan metabolism,
+MAR03259,Bile acid biosynthesis,
+MAR03386,Fatty acid oxidation,phyh
+MAR03437,Fatty acid oxidation,
+MAR03438,Fatty acid oxidation,elovl1b
+MAR03756,Fatty acid oxidation,ehhadh
+MAR03764,Fatty acid oxidation,ehhadh or hsd17b4
+MAR03815,Bile acid biosynthesis,aldh3a2b or aldh9a1a.1 or aldh9a1a.2
+MAR03817,Bile acid biosynthesis,aldh2.1 or aldh2.2 or aldh7a1
+MAR03830,Linoleate metabolism,
+MAR03836,Eicosanoid metabolism,
+MAR04007,Vitamin E metabolism,
+MAR04645,Transport reactions,slc25a20
+MAR04677,Transport reactions,slc25a20
+MAR04719,Fatty acid oxidation,cpt1a2b or cpt1aa or cpt1ab or cpt1b
+MAR04722,Transport reactions,crot
+MAR04726,Transport reactions,slc25a20
+MAR04782,Transport reactions,slc25a20
+MAR06859,Transport reactions,slc3a2a and slc7a5
+MAR06860,Transport reactions,cltrn
+MAR06863,Transport reactions,(slc3a2a and slc7a6) or (slc3a2a and slc7a7)
+MAR06865,Transport reactions,slc6a14
+MAR06870,Transport reactions,
+MAR06871,Transport reactions,slc15a1a or slc15a1b
+MAR06873,Transport reactions,
+MAR06884,Transport reactions,amn and cubn
+MAR06887,Transport reactions,slc38a5a or slc38a5b
+MAR06893,Transport reactions,slc46a1
+MAR06896,Transport reactions,slc6a14
+MAR06897,Transport reactions,(slc3a2a and slc7a6) or (slc3a2a and slc7a7)
+MAR06913,Transport reactions,slc15a1a or slc15a1b
+MAR07102,Transport reactions,(slc3a2a and slc7a6) or (slc3a2a and slc7a7)
+MAR07105,Transport reactions,(slc3a2a and slc7a6) or (slc3a2a and slc7a7)
+MAR07150,Transport reactions,slc15a1a or slc15a1b
+MAR07151,Transport reactions,(slc3a2a and slc7a6) or (slc3a2a and slc7a7)
+MAR07153,Transport reactions,(slc3a2a and slc7a6) or (slc3a2a and slc7a7)
+MAR07154,Transport reactions,slc22a13b
+MAR07155,Transport reactions,fabp1a
+MAR07179,Transport reactions,slc6a14
+MAR07189,Transport reactions,(slc3a2a and slc7a6) or (slc3a2a and slc7a7)
+MAR07190,Transport reactions,fabp1a
+MAR07192,Transport reactions,slc15a1a or slc15a1b
+MAR07194,Transport reactions,cltrn
+MAR07589,Transport reactions,slc36a1
+MAR07593,Transport reactions,slc6a14
+MAR07595,Transport reactions,slc6a14
+MAR07657,Transport reactions,slc6a14
+MAR07753,Transport reactions,slc1a4
+MAR07805,Transport reactions,
+MAR07809,Transport reactions,
+MAR07811,Transport reactions,slc1a4
+MAR07813,Heme degradation,ugt1a7
+MAR07821,Transport reactions,
+MAR08274,Pyrimidine metabolism,dtymk
+MAR08301,Transport reactions,slc25a33
+MAR08970,Transport reactions,
+MAR08972,Transport reactions,slc1a4
+MAR08976,Transport reactions,
+MAR08977,Transport reactions,
+MAR08980,Transport reactions,
+MAR08981,Tricarboxylic acid cycle and glyoxylate/dicarboxylate metabolism,
+MAR08988,Transport reactions,
+MAR08989,Transport reactions,
+MAR08995,Transport reactions,
+MAR08997,Transport reactions,
+MAR08998,Transport reactions,
+MAR09031,Transport reactions,slc22a7a
+MAR09057,Transport reactions,
+MAR09170,Transport reactions,
+MAR09186,Transport reactions,
+MAR09274,Transport reactions,slc43a1a or slc43a1b or slc43a2a or slc43a2b
+MAR09402,Transport reactions,slc7a8a
+MAR09403,Transport reactions,slc43a1a or slc43a1b
+MAR09459,Transport reactions,
+MAR09526,Transport reactions,
+MAR09533,Transport reactions,
+MAR09576,Transport reactions,oatx or slc22a6l
+MAR09589,Transport reactions,
+MAR09821,Transport reactions,
+MAR09869,Transport reactions,cltrn and slc6a18
+MAR09871,Transport reactions,cltrn and slc6a18
+MAR09872,Transport reactions,cltrn and slc6a18
+MAR09873,Transport reactions,si:ch211-132b12.1 or si:ch211-132b12.2 or si:ch211-132b12.3 or si:ch211-132b12.6 or slc6a11a or slc6a22.1 or slc6a22.2 or zgc:158427
+MAR09874,Transport reactions,slc5a8
+MAR09875,Transport reactions,slc6a14
+MAR09876,Transport reactions,cltrn and slc6a18
+MAR09878,Transport reactions,slc29a4a
+MAR09883,Transport reactions,slc22a6l
+MAR09884,Transport reactions,oatx or slc22a7a
+MAR09885,Transport reactions,slco1d1 or slco1e1
+MAR09886,Transport reactions,si:ch211-132b12.1 or si:ch211-132b12.2 or si:ch211-132b12.3 or si:ch211-132b12.6 or slc6a11a or slc6a22.1 or slc6a22.2 or zgc:158427
+MAR09888,Transport reactions,cltrn and slc6a18
+MAR09890,Transport reactions,aqp10b or aqp3a or aqp3b or aqp7 or aqp9b
+MAR09891,Transport reactions,cltrn and slc6a18
+MAR09892,Transport reactions,cltrn and slc6a18
+MAR09895,Transport reactions,cltrn and slc6a18
+MAR09896,Transport reactions,slc5a8
+MAR09898,Transport reactions,cltrn and slc6a18
+MAR09900,Transport reactions,slc5a8
+MAR09902,Transport reactions,slc5a8
+MAR09904,Transport reactions,cltrn and slc6a18
+MAR09905,Transport reactions,slc29a4a
+MAR09907,Transport reactions,cltrn and slc6a18
+MAR09908,Transport reactions,cltrn and slc6a18
+MAR09909,Transport reactions,cltrn and slc6a18
+MAR09912,Transport reactions,slc22a21
+MAR09913,Transport reactions,slc22a21
+MAR09914,Transport reactions,slc22a21
+MAR09915,Transport reactions,slc22a21
+MAR09916,Transport reactions,slc22a21
+MAR09917,Transport reactions,slc22a21
+MAR09918,Transport reactions,slc22a21
+MAR09934,Eicosanoid metabolism,hpgd
+MAR09957,Transport reactions,
+MAR09959,Transport reactions,
+MAR09961,Transport reactions,
+MAR09973,Transport reactions,
+MAR09974,Transport reactions,
+MAR09975,Transport reactions,
+MAR09979,Transport reactions,
+MAR09980,Transport reactions,
+MAR09981,Transport reactions,
+MAR09982,Transport reactions,
+MAR09983,Transport reactions,
+MAR09984,Transport reactions,
+MAR09985,Transport reactions,slc15a1a or slc15a1b
+MAR09990,Transport reactions,
+MAR09991,Transport reactions,
+MAR10011,Transport reactions,slc10a1
+MAR10022,Transport reactions,
+MAR10032,Transport reactions,
+MAR10134,Transport reactions,
+MAR10135,Transport reactions,
+MAR10138,Transport reactions,
+MAR10153,Transport reactions,
+MAR10175,Transport reactions,
+MAR10178,Transport reactions,
+MAR10361,Transport reactions,
+MAR10362,Transport reactions,
+MAR10363,Transport reactions,
+MAR10364,Transport reactions,
+MAR10365,Transport reactions,
+MAR10366,Transport reactions,
+MAR10367,Transport reactions,
+MAR10376,Transport reactions,
+MAR10383,Transport reactions,
+MAR10395,Transport reactions,
+MAR10406,Eicosanoid metabolism,
+MAR10455,Transport reactions,
+MAR10485,Transport reactions,
+MAR10486,Transport reactions,
+MAR10487,Transport reactions,
+MAR11223,Transport reactions,oatx
+MAR11250,Transport reactions,
+MAR11270,Transport reactions,
+MAR11272,Transport reactions,
+MAR11274,Transport reactions,
+MAR11276,Transport reactions,
+MAR11277,Transport reactions,
+MAR11280,Transport reactions,
+MAR11303,Transport reactions,
+MAR11307,Transport reactions,slc15a1a or slc15a1b or slc36a1
+MAR11308,Transport reactions,
+MAR11311,Transport reactions,
+MAR11315,Transport reactions,
+MAR11317,Transport reactions,
+MAR11318,Transport reactions,
+MAR11319,Transport reactions,
+MAR11320,Transport reactions,
+MAR11323,Transport reactions,
+MAR11325,Transport reactions,
+MAR11326,Transport reactions,
+MAR11327,Transport reactions,
+MAR11354,Transport reactions,
+MAR11355,Transport reactions,
+MAR11366,Transport reactions,
+MAR11367,Transport reactions,
+MAR11395,Transport reactions,slc29a4a
+MAR11396,Transport reactions,slc16a1a or slc16a1b
+MAR11410,Transport reactions,slc5a1
+MAR11433,Transport reactions,slc19a2 or slc19a3a
+MAR11517,Transport reactions,
+MAR11518,Transport reactions,oatx
+MAR11571,Transport reactions,
+MAR11646,Transport reactions,
+MAR11647,Transport reactions,slc19a1
+MAR11731,Transport reactions,oatx
+MAR11733,Transport reactions,
+MAR11734,Transport reactions,oatx
+MAR11735,Transport reactions,
+MAR11775,Transport reactions,aqp8a.1
+MAR11783,Transport reactions,slc22a2
+MAR11787,Transport reactions,slc46a1
+MAR11788,Transport reactions,slc29a4a
+MAR11790,Transport reactions,slc29a4a
+MAR11791,Transport reactions,((slc6a19a.2 or slc6a19b) and cltrn) or ((slc6a19a.2 or slc6a19b) and ace2) or slc22a21 or slc38a2
+MAR11797,Transport reactions,slco1d1 or slco1e1
+MAR11798,Transport reactions,slco1d1 or slco1e1 or slco2b1
+MAR11800,Transport reactions,folr
+MAR11803,Transport reactions,rhbg or rhcgb
+MAR11804,Transport reactions,slc3a2a and slc7a7
+MAR11805,Transport reactions,slc19a1
+MAR11806,Transport reactions,slc22a2 or slc22a3
+MAR11808,Transport reactions,slc1a5 or slc22a21
+MAR11815,Transport reactions,cd36 or npc1l1 or scarb1
+MAR11843,Transport reactions,
+MAR11844,Transport reactions,
+MAR11948,Transport reactions,
+MAR11960,Transport reactions,
+MAR11964,Transport reactions,
+MAR12020,Tyrosine metabolism,nqo1
+MAR12021,Tyrosine metabolism,nqo1
+MAR12022,Tyrosine metabolism,
+MAR12054,Transport reactions,
+MAR12088,Transport reactions,
+MAR12093,Transport reactions,
+MAR12094,Transport reactions,
+MAR12095,Transport reactions,
+MAR12112,Transport reactions,
+MAR12143,Transport reactions,slc51a or slco1d1 or slco1e1
+MAR12144,Transport reactions,slc10a1 or slc10a2
+MAR12148,Transport reactions,slc51a or slco1d1 or slco1e1
+MAR12149,Transport reactions,slc10a1 or slc10a2
+MAR12151,Transport reactions,slc51a or slco1d1 or slco1e1
+MAR12152,Transport reactions,slc10a1 or slc10a2
+MAR12155,Transport reactions,slc51a or slco1d1 or slco1e1
+MAR12156,Transport reactions,slc10a1 or slc10a2
+MAR12159,Transport reactions,slc51a or slco1d1 or slco1e1
+MAR12160,Transport reactions,slc10a1 or slc10a2
+MAR12162,Transport reactions,slc51a or slco1d1 or slco1e1
+MAR12163,Transport reactions,slc10a1 or slc10a2
+MAR12165,Transport reactions,slc51a or slco1d1 or slco1e1
+MAR12166,Transport reactions,slc10a1 or slc10a2
+MAR12182,Transport reactions,slco1d1 or slco1e1
+MAR12185,Transport reactions,slc51a or slco1d1 or slco1e1
+MAR12186,Transport reactions,slc10a1 or slc10a2
+MAR12263,Transport reactions,slc51a or slco1d1 or slco1e1
+MAR12264,Transport reactions,slc10a1 or slc10a2
+MAR12267,Transport reactions,slc51a or slco1d1 or slco1e1
+MAR12268,Transport reactions,slc10a1 or slc10a2
+MAR12270,Transport reactions,slc51a or slco1d1 or slco1e1
+MAR12271,Transport reactions,slc10a1 or slc10a2
+MAR12295,Transport reactions,slc51a or slco1d1 or slco1e1
+MAR12296,Transport reactions,slc10a1 or slc10a2
+MAR12301,Transport reactions,slc51a or slco1d1 or slco1e1
+MAR12302,Transport reactions,slc10a1 or slc10a2
+MAR12306,Transport reactions,slc51a or slco1d1 or slco1e1
+MAR12307,Transport reactions,slc10a1 or slc10a2
+MAR12345,Drug metabolism,
+MAR12346,Drug metabolism,slco1d1 or slco1e1 or slco2b1
+MAR12351,Drug metabolism,
+MAR12352,Drug metabolism,slco1d1 or slco1e1 or slco2b1
+MAR12361,Drug metabolism,
+MAR12362,Drug metabolism,slco1d1 or slco1e1 or slco2b1
+MAR12377,Drug metabolism,
+MAR12378,Drug metabolism,slco1d1 or slco1e1 or slco2b1
+MAR12384,Drug metabolism,
+MAR12385,Drug metabolism,slco1d1 or slco1e1 or slco2b1
+MAR12395,Drug metabolism,
+MAR12396,Drug metabolism,slco1d1 or slco1e1 or slco2b1
+MAR12400,Drug metabolism,
+MAR12401,Drug metabolism,slco1d1 or slco1e1 or slco2b1
+MAR12429,Drug metabolism,
+MAR12431,Drug metabolism,slco1d1 or slco1e1 or slco2b1
+MAR12471,Drug metabolism,slc28a1
+MAR12473,Drug metabolism,slc22a7a
+MAR12509,Drug metabolism,slc16a1a or slc16a1b
+MAR12510,Drug metabolism,slco2b1
+MAR12513,Drug metabolism,
+MAR12518,Drug metabolism,slco1d1 or slco1e1 or slco2b1
+MAR12522,Drug metabolism,
+MAR12550,Drug metabolism,
+MAR12551,Drug metabolism,slco1d1 or slco1e1
+MAR12726,Drug metabolism,
+MAR12727,Drug metabolism,slco2b1
+MAR12742,Drug metabolism,
+MAR12743,Drug metabolism,
+MAR12751,Drug metabolism,
+MAR12752,Drug metabolism,
+MAR12755,Drug metabolism,
+MAR12757,Drug metabolism,
+MAR12769,Drug metabolism,
+MAR12771,Drug metabolism,
+MAR12772,Drug metabolism,
+MAR12773,Drug metabolism,
+MAR12806,Drug metabolism,slc22a7a
+MAR12807,Drug metabolism,
+MAR12819,Drug metabolism,
+MAR12820,Drug metabolism,slco2b1
+MAR12825,Drug metabolism,
+MAR12826,Drug metabolism,slco2b1
+MAR12827,Drug metabolism,
+MAR12834,Drug metabolism,
+MAR12835,Drug metabolism,slco2b1
+MAR12846,Drug metabolism,
+MAR12847,Drug metabolism,slco1d1 or slco1e1
+MAR12865,Drug metabolism,
+MAR12866,Drug metabolism,
+MAR12867,Drug metabolism,slc22a6l
+MAR12868,Drug metabolism,
+MAR13027,Transport reactions,
+MAR13075,Transport reactions,
+MAR13077,Transport reactions,
+MAR10044,Transport reactions,
+MAR10066,Steroid metabolism,zgc:56622
+MAR20044,Isolated,adh5
+MAR20115,Transport reactions,slc25a17
+MAR20116,Transport reactions,slc25a17
+MAR20118,Transport reactions,slc25a17
+MAR20119,Transport reactions,slc25a17
+MAR20120,Transport reactions,slc25a17
+MAR20121,Transport reactions,slc25a17
+MAR20122,Transport reactions,slc25a17
+MAR20123,Transport reactions,slc25a17
+MAR20124,Transport reactions,slc25a17
+MAR20125,Transport reactions,slc25a17
+MAR20126,Transport reactions,slc25a17
+MAR20127,Transport reactions,slc25a17
+MAR20128,Transport reactions,slc25a17
+MAR20129,Transport reactions,slc25a17
+MAR20130,Transport reactions,slc25a17
+MAR20131,Transport reactions,slc25a17
+MAR20132,Transport reactions,slc25a36a
+MAR20133,Transport reactions,slc25a36a
+MAR20134,Transport reactions,slc25a36a
+MAR20135,Transport reactions,slc25a36a
+MAR20136,Transport reactions,slc25a36a
+MAR20137,Transport reactions,slc25a36a
+MAR20138,Transport reactions,slc25a36a
+MAR20139,Transport reactions,slc25a36a
+MAR20140,Transport reactions,slc25a36a
+MAR20141,Transport reactions,slc25a36a
+MAR20142,Transport reactions,slc25a36a
+MAR20143,Transport reactions,slc25a36a
+MAR20144,Transport reactions,slc25a36a
+MAR20146,Transport reactions,slc25a33 or slc25a36a
+MAR20147,Transport reactions,slc25a36a
+MAR20148,Transport reactions,slc25a36a
+MAR20149,Transport reactions,slc25a36a
+MAR20150,Transport reactions,slc25a36a
+MAR20151,Transport reactions,slc25a36a
+MAR20152,Transport reactions,slc25a33
+MAR20153,Transport reactions,slc25a33
+MAR20154,Transport reactions,slc25a33
+MAR20155,Transport reactions,slc25a33
+MAR20156,Transport reactions,slc25a33
+MAR20157,Transport reactions,slc25a33
+MAR20158,Transport reactions,slc25a33
+MAR20159,Transport reactions,slc25a33
+MAR20160,Transport reactions,slc25a33
+MAR20161,Transport reactions,slc25a33
+MAR20162,Transport reactions,slc25a33
+MAR20163,Transport reactions,slc25a33
+MAR20164,Transport reactions,slc25a33 or slc25a36a
+MAR20165,Transport reactions,slc25a33 or slc25a36a
+MAR20166,Transport reactions,slc25a33 or slc25a36a

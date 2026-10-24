@@ -1,0 +1,4 @@
+objective,growth,glucose_needed_pFBA,O2_needed_pFBA,glucose_offered,limiting_exchange
+MAR13082,2.0359220115642405,10.0,20.0,10,{'leucine': np.float64(-4.072)}
+MAR04413,1.6888639687627711,1.0429748422319518,9.1850151836781,10,{'lysine': np.float64(-3.378)}
+MAR00021,0.012658227848101262,0.20933054275666999,8.105345372111284,10,{'leucine': np.float64(-0.025)}

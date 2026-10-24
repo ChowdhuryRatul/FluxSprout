@@ -1,0 +1,84 @@
+gene,member,lethal_in,rescued_by_model,reaction,subsystem,equation,GPR
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02623,Carnitine shuttle (cytosolic),CoA + pentadecanoylcarnitine <=> L-carnitine + pentadecanoyl-CoA,cpt1a2b or cpt1aa or cpt1ab or cpt1b
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02678,Carnitine shuttle (cytosolic),CoA + eicosanoylcarnitine <=> eicosanoyl-CoA + L-carnitine,cpt1a2b or cpt1aa or cpt1ab or cpt1b
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02787,Carnitine shuttle (endoplasmic reticular),dodecanoylcarnitine + L-carnitine <=> dodecanoylcarnitine + L-carnitine,slc22a21
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02788,Carnitine shuttle (endoplasmic reticular),CoA + dodecanoylcarnitine <=> lauroyl-CoA + L-carnitine,crata
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02789,Carnitine shuttle (endoplasmic reticular),L-carnitine + tridecanoylcarnitine <=> L-carnitine + tridecanoylcarnitine,slc22a21
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02790,Carnitine shuttle (endoplasmic reticular),CoA + tridecanoylcarnitine <=> L-carnitine + tridecanoyl-CoA,crata
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02793,Carnitine shuttle (endoplasmic reticular),L-carnitine + tetradecenoylcarnitine(5) <=> L-carnitine + tetradecenoylcarnitine(5),slc22a21
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02794,Carnitine shuttle (endoplasmic reticular),(9E)-tetradecenoyl-CoA + L-carnitine <=> CoA + tetradecenoylcarnitine(5),crata
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02795,Carnitine shuttle (endoplasmic reticular),L-carnitine + tetradecenoylcarnitine(7) <=> L-carnitine + tetradecenoylcarnitine(7),slc22a21
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02796,Carnitine shuttle (endoplasmic reticular),(7Z)-tetradecenoyl-CoA + L-carnitine <=> CoA + tetradecenoylcarnitine(7),crata
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02797,Carnitine shuttle (endoplasmic reticular),L-carnitine + tetradecenoylcarnitine(9) <=> L-carnitine + tetradecenoylcarnitine(9),slc22a21
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02798,Carnitine shuttle (endoplasmic reticular),5-tetradecenoyl-CoA + L-carnitine <=> CoA + tetradecenoylcarnitine(9),crata
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02799,Carnitine shuttle (endoplasmic reticular),L-carnitine + pentadecanoylcarnitine <=> L-carnitine + pentadecanoylcarnitine,slc22a21
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02800,Carnitine shuttle (endoplasmic reticular),CoA + pentadecanoylcarnitine <=> L-carnitine + pentadecanoyl-CoA,crata
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02805,Carnitine shuttle (endoplasmic reticular),hexadecenoylcarnitine(9) + L-carnitine <=> hexadecenoylcarnitine(9) + L-carnitine,slc22a21
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02806,Carnitine shuttle (endoplasmic reticular),7-hexadecenoyl-CoA + L-carnitine <=> CoA + hexadecenoylcarnitine(9),crata
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02811,Carnitine shuttle (endoplasmic reticular),heptadecanoylcarnitine + L-carnitine <=> heptadecanoylcarnitine + L-carnitine,slc22a21
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02812,Carnitine shuttle (endoplasmic reticular),CoA + heptadecanoylcarnitine <=> heptadecanoyl-CoA + L-carnitine,crata
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02813,Carnitine shuttle (endoplasmic reticular),heptadecenoylcarnitine(7) + L-carnitine <=> heptadecenoylcarnitine(7) + L-carnitine,slc22a21
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02814,Carnitine shuttle (endoplasmic reticular),(10Z)-heptadecenoyl-CoA + L-carnitine <=> CoA + heptadecenoylcarnitine(7),crata
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02815,Carnitine shuttle (endoplasmic reticular),heptadecenoylcarnitine(8) + L-carnitine <=> heptadecenoylcarnitine(8) + L-carnitine,slc22a21
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02816,Carnitine shuttle (endoplasmic reticular),9-heptadecenoyl-CoA + L-carnitine <=> CoA + heptadecenoylcarnitine(8),crata
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02821,Carnitine shuttle (endoplasmic reticular),L-carnitine + octadecenoylcarnitine(5) <=> L-carnitine + octadecenoylcarnitine(5),slc22a21
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02822,Carnitine shuttle (endoplasmic reticular),(13Z)-octadecenoyl-CoA + L-carnitine <=> CoA + octadecenoylcarnitine(5),crata
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02829,Carnitine shuttle (endoplasmic reticular),(9E)-octadecenoylcarnitine + L-carnitine --> (9E)-octadecenoylcarnitine + L-carnitine,slc22a21
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02830,Carnitine shuttle (endoplasmic reticular),(9E)-octadecenoylcarnitine + CoA --> (9E)-octadecenoyl-CoA + L-carnitine,crata
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02831,Carnitine shuttle (endoplasmic reticular),L-carnitine + octadecenoylcarnitine(11) <=> L-carnitine + octadecenoylcarnitine(11),slc22a21
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02832,Carnitine shuttle (endoplasmic reticular),(7Z)-octadecenoyl-CoA + L-carnitine <=> CoA + octadecenoylcarnitine(11),crata
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02833,Carnitine shuttle (endoplasmic reticular),"(6Z,9Z)-octadecadienoylcarnitine + L-carnitine --> (6Z,9Z)-octadecadienoylcarnitine + L-carnitine",slc22a21
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02834,Carnitine shuttle (endoplasmic reticular),"(6Z,9Z)-octadecadienoylcarnitine + CoA --> (6Z,9Z)-octadecadienoyl-CoA + L-carnitine",crata
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02835,Carnitine shuttle (endoplasmic reticular),L-carnitine + nonadecanoylcarnitine <=> L-carnitine + nonadecanoylcarnitine,slc22a21
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02836,Carnitine shuttle (endoplasmic reticular),CoA + nonadecanoylcarnitine <=> L-carnitine + nonadecanoyl-CoA,crata
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02837,Carnitine shuttle (endoplasmic reticular),eicosanoylcarnitine + L-carnitine <=> eicosanoylcarnitine + L-carnitine,slc22a21
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02838,Carnitine shuttle (endoplasmic reticular),CoA + eicosanoylcarnitine <=> eicosanoyl-CoA + L-carnitine,crata
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02841,Carnitine shuttle (endoplasmic reticular),eicosenoylcarnitine(11) + L-carnitine <=> eicosenoylcarnitine(11) + L-carnitine,slc22a21
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02842,Carnitine shuttle (endoplasmic reticular),9-eicosenoyl-CoA + L-carnitine <=> CoA + eicosenoylcarnitine(11),crata
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02843,Carnitine shuttle (endoplasmic reticular),eicosenoylcarnitine(7) + L-carnitine <=> eicosenoylcarnitine(7) + L-carnitine,slc22a21
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02844,Carnitine shuttle (endoplasmic reticular),(13Z)-eicosenoyl-CoA + L-carnitine <=> CoA + eicosenoylcarnitine(7),crata
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02845,Carnitine shuttle (endoplasmic reticular),"(8Z,11Z)-eicosadienoylcarnitine + L-carnitine <=> (8Z,11Z)-eicosadienoylcarnitine + L-carnitine",slc22a21
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02846,Carnitine shuttle (endoplasmic reticular),"(8Z,11Z)-eicosadienoyl-CoA + L-carnitine <=> (8Z,11Z)-eicosadienoylcarnitine + CoA",crata
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02847,Carnitine shuttle (endoplasmic reticular),"(5Z,8Z,11Z)-eicosatrienoylcarnitine + L-carnitine <=> (5Z,8Z,11Z)-eicosatrienoylcarnitine + L-carnitine",slc22a21
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02848,Carnitine shuttle (endoplasmic reticular),"(5Z,8Z,11Z)-eicosatrienoyl-CoA + L-carnitine <=> (5Z,8Z,11Z)-eicosatrienoylcarnitine + CoA",crata
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02849,Carnitine shuttle (endoplasmic reticular),heneicosanoylcarnitine + L-carnitine <=> heneicosanoylcarnitine + L-carnitine,slc22a21
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02850,Carnitine shuttle (endoplasmic reticular),CoA + heneicosanoylcarnitine <=> heneicosanoyl-CoA + L-carnitine,crata
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02855,Carnitine shuttle (endoplasmic reticular),docosenoylcarnitine(11) + L-carnitine <=> docosenoylcarnitine(11) + L-carnitine,slc22a21
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02856,Carnitine shuttle (endoplasmic reticular),(11Z)-docosenoyl-CoA + L-carnitine <=> CoA + docosenoylcarnitine(11),crata
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02871,Carnitine shuttle (endoplasmic reticular),"(11Z,14Z,17Z)-eicosatrienoylcarnitine + L-carnitine <=> (11Z,14Z,17Z)-eicosatrienoylcarnitine + L-carnitine",slc22a21
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02872,Carnitine shuttle (endoplasmic reticular),"(11Z,14Z,17Z)-eicosatrienoyl-CoA + L-carnitine <=> (11Z,14Z,17Z)-eicosatrienoylcarnitine + CoA",crata
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02873,Carnitine shuttle (endoplasmic reticular),"13,16,19-docosatrienoylcarnitine + L-carnitine <=> 13,16,19-docosatrienoylcarnitine + L-carnitine",slc22a21
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02874,Carnitine shuttle (endoplasmic reticular),"13,16,19-docosatrienoyl-CoA + L-carnitine <=> 13,16,19-docosatrienoylcarnitine + CoA",crata
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02898,Carnitine shuttle (endoplasmic reticular),"(4Z,7Z,10Z,13Z,16Z)-docosapentaenoylcarnitine + L-carnitine <=> (4Z,7Z,10Z,13Z,16Z)-docosapentaenoylcarnitine + L-carnitine",slc22a21
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02899,Carnitine shuttle (endoplasmic reticular),"(4Z,7Z,10Z,13Z,16Z)-docosapentaenoyl-CoA + L-carnitine <=> (4Z,7Z,10Z,13Z,16Z)-docosapentaenoylcarnitine + CoA",crata
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02902,Carnitine shuttle (endoplasmic reticular),"(13Z,16Z)-docosadienoylcarnitine + L-carnitine <=> (13Z,16Z)-docosadienoylcarnitine + L-carnitine",slc22a21
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02903,Carnitine shuttle (endoplasmic reticular),"(13Z,16Z)-docosadienoyl-CoA + L-carnitine <=> (13Z,16Z)-docosadienoylcarnitine + CoA + H+",crata
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02906,Carnitine shuttle (endoplasmic reticular),CoA + tricosanoylcarnitine <=> L-carnitine + tricosanoyl-CoA,cpt1a2b or cpt1aa or cpt1ab or cpt1b
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02907,Carnitine shuttle (endoplasmic reticular),L-carnitine + tricosanoylcarnitine <=> L-carnitine + tricosanoylcarnitine,slc22a21
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02908,Carnitine shuttle (endoplasmic reticular),CoA + tricosanoylcarnitine <=> L-carnitine + tricosanoyl-CoA,crata
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02909,Carnitine shuttle (endoplasmic reticular),CoA + tetracosanoylcarnitine <=> L-carnitine + tetracosanoyl-CoA,cpt1a2b or cpt1aa or cpt1ab or cpt1b
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02910,Carnitine shuttle (endoplasmic reticular),L-carnitine + tetracosanoylcarnitine <=> L-carnitine + tetracosanoylcarnitine,slc22a21
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02911,Carnitine shuttle (endoplasmic reticular),CoA + tetracosanoylcarnitine <=> L-carnitine + tetracosanoyl-CoA,crata
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02915,Carnitine shuttle (endoplasmic reticular),CoA + hexacosanoylcarnitine <=> hexacosanoyl-CoA + L-carnitine,cpt1a2b or cpt1aa or cpt1ab or cpt1b
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02916,Carnitine shuttle (endoplasmic reticular),hexacosanoylcarnitine + L-carnitine <=> hexacosanoylcarnitine + L-carnitine,slc22a21
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02917,Carnitine shuttle (endoplasmic reticular),CoA + hexacosanoylcarnitine <=> hexacosanoyl-CoA + L-carnitine,crata
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02918,Carnitine shuttle (endoplasmic reticular),CoA + hexacosenoylcarnitine <=> hexacosenoyl-CoA + L-carnitine,cpt1a2b or cpt1aa or cpt1ab or cpt1b
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02919,Carnitine shuttle (endoplasmic reticular),hexacosenoylcarnitine + L-carnitine <=> hexacosenoylcarnitine + L-carnitine,slc22a21
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02920,Carnitine shuttle (endoplasmic reticular),CoA + hexacosenoylcarnitine <=> hexacosenoyl-CoA + L-carnitine,crata
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02922,Carnitine shuttle (endoplasmic reticular),"(9Z,12Z,15Z,18Z,21Z)-tetracosapentaenoylcarnitine + L-carnitine <=> (9Z,12Z,15Z,18Z,21Z)-tetracosapentaenoylcarnitine + L-carnitine",slc22a21
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02923,Carnitine shuttle (endoplasmic reticular),"(9Z,12Z,15Z,18Z,21Z)-tetracosapentaenoyl-CoA + L-carnitine <=> (9Z,12Z,15Z,18Z,21Z)-tetracosapentaenoylcarnitine + CoA",crata
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02928,Carnitine shuttle (endoplasmic reticular),"(6Z,9Z,12Z,15Z,18Z)-tetracosapentaenoylcarnitine + L-carnitine <=> (6Z,9Z,12Z,15Z,18Z)-tetracosapentaenoylcarnitine + L-carnitine",slc22a21
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02929,Carnitine shuttle (endoplasmic reticular),"(6Z,9Z,12Z,15Z,18Z)-tetracosapentaenoyl-CoA + L-carnitine <=> (6Z,9Z,12Z,15Z,18Z)-tetracosapentaenoylcarnitine + CoA",crata
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02930,Carnitine shuttle (endoplasmic reticular),"(6Z,9Z,12Z,15Z,18Z,21Z)-tetracosahexaenoyl-CoA + L-carnitine <=> (6Z,9Z,12Z,15Z,18Z,21Z)-tetracosahexaenoylcarnitine + CoA",cpt1a2b or cpt1aa or cpt1ab or cpt1b
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02931,Carnitine shuttle (endoplasmic reticular),"(6Z,9Z,12Z,15Z,18Z,21Z)-tetracosahexaenoylcarnitine + L-carnitine <=> (6Z,9Z,12Z,15Z,18Z,21Z)-tetracosahexaenoylcarnitine + L-carnitine",slc22a21
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR02932,Carnitine shuttle (endoplasmic reticular),"(6Z,9Z,12Z,15Z,18Z,21Z)-tetracosahexaenoyl-CoA + L-carnitine <=> (6Z,9Z,12Z,15Z,18Z,21Z)-tetracosahexaenoylcarnitine + CoA",crata
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR03643,Formation and hydrolysis of cholesterol esters,(7Z)-octadecenoyl-CoA + cholesterol --> cholesterol-ester-7-octade + CoA,soat1 or soat2
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR03653,Formation and hydrolysis of cholesterol esters,cholesterol + docosanoyl-CoA --> cholesterol-ester-docosa + CoA,soat1 or soat2
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR03662,Formation and hydrolysis of cholesterol esters,"(6Z,9Z,12Z,15Z)-octadecatetraenoyl-CoA + cholesterol --> cholesterol-ester-6,9,12,15-octa + CoA",soat1 or soat2
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR03671,Formation and hydrolysis of cholesterol esters,"10,13,16,19-docosatetraenoyl-CoA + cholesterol --> cholesterol-ester-10,13,16,19-docosa + CoA",soat1 or soat2
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR03672,Formation and hydrolysis of cholesterol esters,"12,15,18,21-tetracosatetraenoyl-CoA + cholesterol --> cholesterol-ester-12,15,18,21-tetracosa + CoA",soat1 or soat2
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR03683,Formation and hydrolysis of cholesterol esters,"10,13,16-docosatrienoyl-CoA + cholesterol --> cholesterol-ester-10,13,16-docosa + CoA",soat1 or soat2
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR03507,Fatty acid oxidation,"H+ + NADPH + trans,cis,cis,cis,cis-2,12,15,18,21-tetracosapentaenoyl-CoA <=> 12,15,18,21-tetracosatetraenoyl-CoA + NADP+",elovl1b
+lcat,fastcore/strict,ISV_cyc,ISV_tip,MAR03535,Fatty acid oxidation,"3(S)-hydroxy-tetracosa-12,15,18,21-all-cis-tetraenoyl-CoA <=> H2O + trans,cis,cis,cis,cis-2,12,15,18,21-tetracosapentaenoyl-CoA",elovl1b
+slc25a19,fastcore/strict,ISV_tip,ISV_cyc,MAR04579,Pyrimidine metabolism,Pi + uridine <=> ribose-1-phosphate + uracil,upp1 or upp2
+slc25a36a,gimme/default,ISV_cyc,ISV_tip,MAR04020,Purine metabolism,ADP + GDP <=> ATP + GMP,guk1a or guk1b

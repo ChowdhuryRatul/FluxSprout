@@ -1,0 +1,28 @@
+group,type,compartment,cells,metacells modeled (E-Flux),"reactions, FASTCORE loose","reactions, FASTCORE default","reactions, FASTCORE strict","reactions, GIMME"
+aDA,endothelial / hemogenic state,arterial; established,430,21,7290,7160,6830,3122
+aCran,endothelial / hemogenic state,arterial; established,193,9,7365,7328,6943,3659
+aTrunk_mixed,endothelial / hemogenic state,atlas only (not in a compartment),110,5,6900,6655,6346,3099
+ISV_tip,endothelial / hemogenic state,tip; sprouting,362,18,7131,6863,6057,3082
+ISV_cyc,endothelial / hemogenic state,cycling; sprouting,185,9,7273,6915,6611,2923
+cranV,endothelial / hemogenic state,venous; established,364,17,7220,6925,6717,3158
+cranV_cyc,endothelial / hemogenic state,cycling,180,8,7023,6796,6019,3141
+vPCV,endothelial / hemogenic state,venous; established,292,12,7033,6854,6653,3502
+vPCV_cyc,endothelial / hemogenic state,cycling,202,10,7233,7074,6321,3366
+vCV,endothelial / hemogenic state,venous; established,443,20,7620,7344,7130,3899
+angioblast,endothelial / hemogenic state,atlas only (not in a compartment),428,20,7365,7073,6831,3803
+angioblast_cyc,endothelial / hemogenic state,cycling,169,8,7300,7170,6923,3313
+endocard,endothelial / hemogenic state,atlas only (not in a compartment),40,2,7261,7182,6985,3711
+HE_EMP,endothelial / hemogenic state,atlas only (not in a compartment),107,5,7601,7494,7218,3410
+Erythroid,non-endothelial lineage,non-endothelial control,2536,101,6740,6076,5414,2695
+Macrophage,non-endothelial lineage,non-endothelial control,391,19,7531,7414,7006,3600
+Myeloid,non-endothelial lineage,non-endothelial control,119,0,6732,6591,6408,3428
+Muscle,non-endothelial lineage,non-endothelial control,170,8,6658,6285,5546,2914
+Neural prog.,non-endothelial lineage,non-endothelial control,431,21,6438,6298,5912,3212
+Neuron,non-endothelial lineage,non-endothelial control,69,0,7051,6911,6587,3905
+Fibroblast,non-endothelial lineage,non-endothelial control,263,12,6783,6580,6213,3430
+Mesenchyme,non-endothelial lineage,non-endothelial control,320,0,6503,6213,5686,3333
+Post. mes.,non-endothelial lineage,non-endothelial control,211,0,6432,6292,5769,3323
+Epithelium,non-endothelial lineage,non-endothelial control,301,0,6849,6622,6322,3286
+Periderm,non-endothelial lineage,non-endothelial control,128,0,7626,7551,6712,3640
+Xantho.,non-endothelial lineage,non-endothelial control,24,0,7207,7051,6812,3798
+LPM/cardiac,non-endothelial lineage,non-endothelial control,19,0,6478,6342,6159,3196

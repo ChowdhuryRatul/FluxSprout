@@ -1,0 +1,14 @@
+,Zebrafish-GEM (distributed),Reference network (flux-consistent under the embryonic medium),"FASTCORE default, ISV_tip","FASTCORE default, aDA"
+reactions,12833.0,9480.0,6863.0,7160.0
+metabolites,8435.0,5578.0,4638.0,4843.0
+genes,2709.0,2170.0,1919.0,1941.0
+internal reactions,11165.0,8466.0,5852.0,6149.0
+mass balanced (%),99.2,99.5,99.5,99.5
+charge balanced (%),97.9,98.9,99.0,99.1
+metabolites with formula (%),99.9,99.9,99.9,99.9
+metabolites with charge (%),100.0,100.0,100.0,100.0
+reactions with GPR (%),70.7,73.6,79.0,79.9
+reactions with annotation (%),100.0,100.0,100.0,100.0
+metabolites with annotation (%),100.0,100.0,100.0,100.0
+"flux-consistent reactions, all exchanges open",11356.0,,,
+"flux-consistent reactions, embryonic medium",9480.0,9480,,
